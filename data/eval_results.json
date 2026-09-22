@@ -1,0 +1,53 @@
+{
+  "metrics": [
+    {
+      "label": "PM checkout/payments",
+      "precision": 1.0,
+      "recall": 0.8333333333333334,
+      "hits": 10,
+      "n_relevant": 12,
+      "n_retrieved": 10,
+      "max_achievable_precision_at_10": 1.0
+    },
+    {
+      "label": "SWE microservices/CI-CD",
+      "precision": 0.9,
+      "recall": 0.9,
+      "hits": 9,
+      "n_relevant": 10,
+      "n_retrieved": 10,
+      "max_achievable_precision_at_10": 1.0
+    },
+    {
+      "label": "Support self-serve docs",
+      "precision": 0.7,
+      "recall": 1.0,
+      "hits": 7,
+      "n_relevant": 7,
+      "n_retrieved": 10,
+      "max_achievable_precision_at_10": 0.7
+    },
+    {
+      "label": "Data Analyst SQL/Python",
+      "precision": 0.4,
+      "recall": 1.0,
+      "hits": 4,
+      "n_relevant": 4,
+      "n_retrieved": 10,
+      "max_achievable_precision_at_10": 0.4
+    },
+    {
+      "label": "Product Designer Figma/design-systems",
+      "precision": 0.2,
+      "recall": 1.0,
+      "hits": 2,
+      "n_relevant": 2,
+      "n_retrieved": 10,
+      "max_achievable_precision_at_10": 0.2
+    }
+  ],
+  "avg_precision_at_10": 0.6399999999999999,
+  "avg_recall_at_10": 0.9466666666666667,
+  "avg_max_achievable_precision_at_10": 0.66,
+  "search_runtime_seconds": 25.939291954040527
+}

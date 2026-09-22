@@ -1,0 +1,1444 @@
+[
+  {
+    "chunk_id": "CH0001",
+    "candidate_id": "C024",
+    "section_type": "Experience",
+    "text": "Backend Engineer, Clearwave Media (2025 - Present)\n- Led the decomposition of a monolithic codebase into independently deployable services\n- Took ownership of onboarding and mentoring new engineering hires\n- Rebuilt the checkout service in Go, cutting p95 latency by 40%",
+    "date_received": "2025-08-20"
+  },
+  {
+    "chunk_id": "CH0002",
+    "candidate_id": "C024",
+    "section_type": "Experience",
+    "text": "Backend Engineer, Quietwork Tools (2023 - 2025)\n- Rewrote the payments backend for performance, dropping tail latency significantly\n- Developed ML-driven content ranking for the homepage feed\n- Led the decomposition of a monolithic codebase into independently deployable services",
+    "date_received": "2025-08-20"
+  },
+  {
+    "chunk_id": "CH0003",
+    "candidate_id": "C024",
+    "section_type": "Skills",
+    "text": "Python, Machine Learning, Pandas, scikit-learn, SQL",
+    "date_received": "2025-08-20"
+  },
+  {
+    "chunk_id": "CH0004",
+    "candidate_id": "C024",
+    "section_type": "Education",
+    "text": "B.A. in Communications, State University, 2021",
+    "date_received": "2025-08-20"
+  },
+  {
+    "chunk_id": "CH0005",
+    "candidate_id": "C038",
+    "section_type": "Experience",
+    "text": "Account Executive, Quietwork Tools (2024 - Present)\n- Beat sales targets by more than 20% for a year and a half straight\n- Generated over a million dollars in new ARR from enterprise deals\n- Owned top-of-funnel outreach strategy for small business customers",
+    "date_received": "2025-06-06"
+  },
+  {
+    "chunk_id": "CH0006",
+    "candidate_id": "C038",
+    "section_type": "Experience",
+    "text": "Sales Development Representative, Harborlight Insurance (2023 - 2025)\n- Designed the cold outreach process that fed the SMB pipeline\n- Beat sales targets by more than 20% for a year and a half straight\n- Secured a long-term agreement with a major enterprise logistics customer",
+    "date_received": "2025-06-06"
+  },
+  {
+    "chunk_id": "CH0007",
+    "candidate_id": "C038",
+    "section_type": "Experience",
+    "text": "Enterprise Sales Manager, Pebblestone Financial (2020 - 2022)\n- Generated over a million dollars in new ARR from enterprise deals\n- Owned top-of-funnel outreach strategy for small business customers\n- Beat sales targets by more than 20% for a year and a half straight",
+    "date_received": "2025-06-06"
+  },
+  {
+    "chunk_id": "CH0008",
+    "candidate_id": "C038",
+    "section_type": "Skills",
+    "text": "Salesforce, Outbound Prospecting, Negotiation, Account Management, Forecasting",
+    "date_received": "2025-06-06"
+  },
+  {
+    "chunk_id": "CH0009",
+    "candidate_id": "C038",
+    "section_type": "Education",
+    "text": "B.A. in Psychology, Riverbend University, 2008",
+    "date_received": "2025-06-06"
+  },
+  {
+    "chunk_id": "CH0010",
+    "candidate_id": "C001",
+    "section_type": "Experience",
+    "text": "Product Manager, Northstar Analytics (2025 - Present)\n- Synthesized customer feedback loops to guide the new-user activation roadmap\n- Owned the payments product area end-to-end, cutting drop-off at purchase by nearly a fifth\n- Wrote PRDs and managed a cross-functional team of 6 engineers and 2 designers",
+    "date_received": "2025-04-23"
+  },
+  {
+    "chunk_id": "CH0011",
+    "candidate_id": "C001",
+    "section_type": "Skills",
+    "text": "Roadmapping, Prioritization (RICE), SQL, Figma, A/B Testing, Stakeholder Management",
+    "date_received": "2025-04-23"
+  },
+  {
+    "chunk_id": "CH0012",
+    "candidate_id": "C001",
+    "section_type": "Education",
+    "text": "B.A. in Communications, State University, 2015",
+    "date_received": "2025-04-23"
+  },
+  {
+    "chunk_id": "CH0013",
+    "candidate_id": "C037",
+    "section_type": "Experience",
+    "text": "Enterprise Sales Manager, Basecamp Mobility (2024 - Present)\n- Negotiated and closed a multi-year contract with a Fortune 500 logistics company\n- Drove significant new recurring revenue growth through enterprise account wins\n- Delivered quota over-attainment across six straight quarters",
+    "date_received": "2026-08-12"
+  },
+  {
+    "chunk_id": "CH0014",
+    "candidate_id": "C037",
+    "section_type": "Skills",
+    "text": "Cold Calling, SMB Sales, CRM Hygiene, Upselling",
+    "date_received": "2026-08-12"
+  },
+  {
+    "chunk_id": "CH0015",
+    "candidate_id": "C037",
+    "section_type": "Education",
+    "text": "M.S. in Information Systems, State University, 2016",
+    "date_received": "2026-08-12"
+  },
+  {
+    "chunk_id": "CH0016",
+    "candidate_id": "C013",
+    "section_type": "Experience",
+    "text": "Senior Product Manager, Meadowbrook Software (2025 - Present)\n- Acted as the single point of accountability for a multi-discipline product squad\n- Ran discovery interviews with 40+ customers to prioritize the onboarding roadmap\n- Owned the payments product area end-to-end, cutting drop-off at purchase by nearly a fifth",
+    "date_received": "2026-01-21"
+  },
+  {
+    "chunk_id": "CH0017",
+    "candidate_id": "C013",
+    "section_type": "Skills",
+    "text": "Agile/Scrum, Data Analysis, Competitive Analysis, PRD Writing, Pricing Strategy",
+    "date_received": "2026-01-21"
+  },
+  {
+    "chunk_id": "CH0018",
+    "candidate_id": "C013",
+    "section_type": "Education",
+    "text": "B.A. in Communications, Northfield Institute of Technology, 2018",
+    "date_received": "2026-01-21"
+  },
+  {
+    "chunk_id": "CH0019",
+    "candidate_id": "C036",
+    "section_type": "Experience",
+    "text": "Enterprise Sales Manager, Basecamp Mobility (2025 - Present)\n- Built and ran the outbound prospecting playbook for the SMB segment\n- Consistently exceeded quota by 120%+ for six consecutive quarters\n- Closed $1.2M in new annual recurring revenue across 30 enterprise accounts",
+    "date_received": "2025-07-01"
+  },
+  {
+    "chunk_id": "CH0020",
+    "candidate_id": "C036",
+    "section_type": "Experience",
+    "text": "Sales Development Representative, Nimbus Retail (2022 - 2024)\n- Delivered quota over-attainment across six straight quarters\n- Generated over a million dollars in new ARR from enterprise deals\n- Designed the cold outreach process that fed the SMB pipeline",
+    "date_received": "2025-07-01"
+  },
+  {
+    "chunk_id": "CH0021",
+    "candidate_id": "C036",
+    "section_type": "Skills",
+    "text": "HubSpot, Enterprise Sales, Contract Negotiation, Pipeline Management",
+    "date_received": "2025-07-01"
+  },
+  {
+    "chunk_id": "CH0022",
+    "candidate_id": "C036",
+    "section_type": "Education",
+    "text": "B.A. in Psychology, Northfield Institute of Technology, 2023",
+    "date_received": "2025-07-01"
+  },
+  {
+    "chunk_id": "CH0023",
+    "candidate_id": "C003",
+    "section_type": "Experience",
+    "text": "Associate Product Manager, Vantage Commerce (2024 - Present)\n- Wrote PRDs and managed a cross-functional team of 6 engineers and 2 designers\n- Synthesized customer feedback loops to guide the new-user activation roadmap\n- Led the checkout redesign that reduced cart abandonment by 18%",
+    "date_received": "2025-08-29"
+  },
+  {
+    "chunk_id": "CH0024",
+    "candidate_id": "C003",
+    "section_type": "Skills",
+    "text": "Agile/Scrum, Data Analysis, Competitive Analysis, PRD Writing, Pricing Strategy",
+    "date_received": "2025-08-29"
+  },
+  {
+    "chunk_id": "CH0025",
+    "candidate_id": "C003",
+    "section_type": "Education",
+    "text": "B.A. in Communications, State University, 2011",
+    "date_received": "2025-08-29"
+  },
+  {
+    "chunk_id": "CH0026",
+    "candidate_id": "C011",
+    "section_type": "Experience",
+    "text": "Associate Product Manager, Nimbus Retail (2025 - Present)\n- Owned the payments product area end-to-end, cutting drop-off at purchase by nearly a fifth\n- Partnered with UX research to talk to dozens of new users and reshape the first-week experience\n- Coordinated a squad of engineers and designers from spec to launch",
+    "date_received": "2025-08-30"
+  },
+  {
+    "chunk_id": "CH0027",
+    "candidate_id": "C011",
+    "section_type": "Skills",
+    "text": "Product Strategy, User Research, JIRA, Amplitude, Cross-functional Leadership",
+    "date_received": "2025-08-30"
+  },
+  {
+    "chunk_id": "CH0028",
+    "candidate_id": "C011",
+    "section_type": "Education",
+    "text": "B.S. in Business Administration, Riverbend University, 2013",
+    "date_received": "2025-08-30"
+  },
+  {
+    "chunk_id": "CH0029",
+    "candidate_id": "C022",
+    "section_type": "Experience",
+    "text": "Software Engineer, Brightloop (2024 - Present)\n- Grew junior team members through regular code review and pairing\n- Migrated the purchase-flow API to a faster service architecture\n- Architected the transition off the old monolith onto microservices",
+    "date_received": "2026-03-26"
+  },
+  {
+    "chunk_id": "CH0030",
+    "candidate_id": "C022",
+    "section_type": "Experience",
+    "text": "Software Engineer, Harborlight Insurance (2022 - 2024)\n- Implemented a recommendation engine using collaborative filtering in Python\n- Took ownership of onboarding and mentoring new engineering hires\n- Migrated the purchase-flow API to a faster service architecture",
+    "date_received": "2026-03-26"
+  },
+  {
+    "chunk_id": "CH0031",
+    "candidate_id": "C022",
+    "section_type": "Skills",
+    "text": "Python, Go, PostgreSQL, Kubernetes, AWS, REST APIs",
+    "date_received": "2026-03-26"
+  },
+  {
+    "chunk_id": "CH0032",
+    "candidate_id": "C022",
+    "section_type": "Education",
+    "text": "B.S. in Economics, State University, 2015",
+    "date_received": "2026-03-26"
+  },
+  {
+    "chunk_id": "CH0033",
+    "candidate_id": "C051",
+    "section_type": "Experience",
+    "text": "Data Analyst, Clearwave Media (2025 - Present)\n- Cut hours of manual report-building by automating the weekly exec dashboard\n- Developed a predictive model to flag at-risk customers for the retention team\n- Partnered with product to define and instrument key funnel metrics",
+    "date_received": "2026-05-16"
+  },
+  {
+    "chunk_id": "CH0034",
+    "candidate_id": "C051",
+    "section_type": "Experience",
+    "text": "Data Analyst, Sunlit Foods (2023 - 2025)\n- Built a churn prediction model that improved retention team targeting by 15%\n- Set up analytics instrumentation for core product funnels\n- Replaced manual leadership reports with an automated pipeline",
+    "date_received": "2026-05-16"
+  },
+  {
+    "chunk_id": "CH0035",
+    "candidate_id": "C051",
+    "section_type": "Skills",
+    "text": "SQL, Python, Tableau, A/B Testing, Statistics",
+    "date_received": "2026-05-16"
+  },
+  {
+    "chunk_id": "CH0036",
+    "candidate_id": "C051",
+    "section_type": "Education",
+    "text": "B.S. in Computer Science, Lakeside College, 2009",
+    "date_received": "2026-05-16"
+  },
+  {
+    "chunk_id": "CH0037",
+    "candidate_id": "C012",
+    "section_type": "Experience",
+    "text": "Senior Product Manager, Quietwork Tools (2024 - Present)\n- Ran discovery interviews with 40+ customers to prioritize the onboarding roadmap\n- Ran A/B tests on pricing tiers that increased conversion by 9%\n- Delivered a metrics workspace that replaced manual spreadsheet reporting for the whole org",
+    "date_received": "2026-03-16"
+  },
+  {
+    "chunk_id": "CH0038",
+    "candidate_id": "C012",
+    "section_type": "Experience",
+    "text": "Associate Product Manager, Pebblestone Financial (2023 - 2025)\n- Ran A/B tests on pricing tiers that increased conversion by 9%\n- Delivered a metrics workspace that replaced manual spreadsheet reporting for the whole org\n- Owned the payments product area end-to-end, cutting drop-off at purchase by nearly a fifth",
+    "date_received": "2026-03-16"
+  },
+  {
+    "chunk_id": "CH0039",
+    "candidate_id": "C012",
+    "section_type": "Skills",
+    "text": "Product Strategy, User Research, JIRA, Amplitude, Cross-functional Leadership",
+    "date_received": "2026-03-16"
+  },
+  {
+    "chunk_id": "CH0040",
+    "candidate_id": "C012",
+    "section_type": "Education",
+    "text": "B.A. in Psychology, State University, 2010",
+    "date_received": "2026-03-16"
+  },
+  {
+    "chunk_id": "CH0041",
+    "candidate_id": "C043",
+    "section_type": "Experience",
+    "text": "Product Designer, Nimbus Retail (2024 - Present)\n- Redesigned the checkout UI, improving task completion in usability tests by 25%\n- Led moderated research rounds to validate designs before shipping\n- Standardized reusable design components adopted org-wide",
+    "date_received": "2025-08-27"
+  },
+  {
+    "chunk_id": "CH0042",
+    "candidate_id": "C043",
+    "section_type": "Experience",
+    "text": "Product Designer, Vantage Commerce (2022 - 2024)\n- Redesigned the checkout UI, improving task completion in usability tests by 25%\n- Owned the shared UI component library used across product teams\n- Ran moderated usability studies with 15 participants per release cycle",
+    "date_received": "2025-08-27"
+  },
+  {
+    "chunk_id": "CH0043",
+    "candidate_id": "C043",
+    "section_type": "Experience",
+    "text": "UX Designer, Harborlight Insurance (2020 - 2022)\n- Built and maintained the company's design system component library in Figma\n- Led moderated research rounds to validate designs before shipping\n- Overhauled the purchase-flow interface, raising usability test success rates",
+    "date_received": "2025-08-27"
+  },
+  {
+    "chunk_id": "CH0044",
+    "candidate_id": "C043",
+    "section_type": "Skills",
+    "text": "Figma, Design Systems, Usability Testing, Prototyping, Accessibility (WCAG)",
+    "date_received": "2025-08-27"
+  },
+  {
+    "chunk_id": "CH0045",
+    "candidate_id": "C043",
+    "section_type": "Education",
+    "text": "B.A. in Communications, Lakeside College, 2010",
+    "date_received": "2025-08-27"
+  },
+  {
+    "chunk_id": "CH0046",
+    "candidate_id": "C030",
+    "section_type": "Experience",
+    "text": "Support Team Lead, Northstar Analytics (2025 - Present)\n- Flagged a systemic billing issue to engineering that headed off a wave of complaints\n- Trained 8 new support hires on the ticketing system and escalation process\n- Authored self-serve documentation that cut down repetitive support volume",
+    "date_received": "2025-09-24"
+  },
+  {
+    "chunk_id": "CH0047",
+    "candidate_id": "C030",
+    "section_type": "Skills",
+    "text": "Salesforce Service Cloud, Live Chat, Escalation Handling, Knowledge Base Writing",
+    "date_received": "2025-09-24"
+  },
+  {
+    "chunk_id": "CH0048",
+    "candidate_id": "C030",
+    "section_type": "Education",
+    "text": "B.S. in Economics, Lakeside College, 2014",
+    "date_received": "2025-09-24"
+  },
+  {
+    "chunk_id": "CH0049",
+    "candidate_id": "C016",
+    "section_type": "Experience",
+    "text": "Senior Software Engineer, Brightloop (2025 - Present)\n- Automated the release process, shrinking deployment time by nearly 90%\n- Architected the transition off the old monolith onto microservices\n- Took ownership of onboarding and mentoring new engineering hires",
+    "date_received": "2026-07-07"
+  },
+  {
+    "chunk_id": "CH0050",
+    "candidate_id": "C016",
+    "section_type": "Skills",
+    "text": "Python, Machine Learning, Pandas, scikit-learn, SQL",
+    "date_received": "2026-07-07"
+  },
+  {
+    "chunk_id": "CH0051",
+    "candidate_id": "C016",
+    "section_type": "Education",
+    "text": "B.S. in Business Administration, Maple City College, 2011",
+    "date_received": "2026-07-07"
+  },
+  {
+    "chunk_id": "CH0052",
+    "candidate_id": "C041",
+    "section_type": "Experience",
+    "text": "Senior Product Designer, Ironbridge Robotics (2024 - Present)\n- Standardized reusable design components adopted org-wide\n- Ran moderated usability studies with 15 participants per release cycle\n- Simplified the buy-flow screens after multiple rounds of user testing",
+    "date_received": "2025-04-02"
+  },
+  {
+    "chunk_id": "CH0053",
+    "candidate_id": "C041",
+    "section_type": "Experience",
+    "text": "UX Designer, Aurora Systems (2023 - 2025)\n- Standardized reusable design components adopted org-wide\n- Overhauled the purchase-flow interface, raising usability test success rates\n- Led moderated research rounds to validate designs before shipping",
+    "date_received": "2025-04-02"
+  },
+  {
+    "chunk_id": "CH0054",
+    "candidate_id": "C041",
+    "section_type": "Experience",
+    "text": "UX Designer, Northstar Analytics (2020 - 2022)\n- Ran moderated usability studies with 15 participants per release cycle\n- Redesigned the checkout UI, improving task completion in usability tests by 25%\n- Standardized reusable design components adopted org-wide",
+    "date_received": "2025-04-02"
+  },
+  {
+    "chunk_id": "CH0055",
+    "candidate_id": "C041",
+    "section_type": "Skills",
+    "text": "Sketch, User Research, Interaction Design, Wireframing",
+    "date_received": "2025-04-02"
+  },
+  {
+    "chunk_id": "CH0056",
+    "candidate_id": "C041",
+    "section_type": "Education",
+    "text": "B.S. in Economics, State University, 2011",
+    "date_received": "2025-04-02"
+  },
+  {
+    "chunk_id": "CH0057",
+    "candidate_id": "C046",
+    "section_type": "Experience",
+    "text": "UX Designer, Nimbus Retail (2024 - Present)\n- Redesigned the checkout UI, improving task completion in usability tests by 25%\n- Owned the shared UI component library used across product teams\n- Conducted regular in-depth user testing sessions ahead of each release",
+    "date_received": "2025-09-13"
+  },
+  {
+    "chunk_id": "CH0058",
+    "candidate_id": "C046",
+    "section_type": "Skills",
+    "text": "Sketch, User Research, Interaction Design, Wireframing",
+    "date_received": "2025-09-13"
+  },
+  {
+    "chunk_id": "CH0059",
+    "candidate_id": "C046",
+    "section_type": "Education",
+    "text": "B.A. in Communications, Lakeside College, 2012",
+    "date_received": "2025-09-13"
+  },
+  {
+    "chunk_id": "CH0060",
+    "candidate_id": "C008",
+    "section_type": "Experience",
+    "text": "Senior Product Manager, Pebblestone Financial (2025 - Present)\n- Shipped a self-serve analytics dashboard used by 200+ internal stakeholders\n- Acted as the single point of accountability for a multi-discipline product squad\n- Built the measurement framework growth leadership used to judge experiment success",
+    "date_received": "2026-01-12"
+  },
+  {
+    "chunk_id": "CH0061",
+    "candidate_id": "C008",
+    "section_type": "Experience",
+    "text": "Associate Product Manager, Clearwave Media (2023 - 2025)\n- Used controlled experiments to validate a new pricing model before company-wide rollout\n- Delivered a metrics workspace that replaced manual spreadsheet reporting for the whole org\n- Owned the growth team's KPI framework and reported results to the executive staff",
+    "date_received": "2026-01-12"
+  },
+  {
+    "chunk_id": "CH0062",
+    "candidate_id": "C008",
+    "section_type": "Skills",
+    "text": "OKRs, Customer Discovery, Mixpanel, SQL, Go-to-Market Planning",
+    "date_received": "2026-01-12"
+  },
+  {
+    "chunk_id": "CH0063",
+    "candidate_id": "C008",
+    "section_type": "Education",
+    "text": "B.S. in Economics, Maple City College, 2011",
+    "date_received": "2026-01-12"
+  },
+  {
+    "chunk_id": "CH0064",
+    "candidate_id": "C049",
+    "section_type": "Experience",
+    "text": "Business Intelligence Analyst, Vantage Commerce (2025 - Present)\n- Developed a predictive model to flag at-risk customers for the retention team\n- Worked closely with the PM team to define event tracking for the funnel\n- Replaced manual leadership reports with an automated pipeline",
+    "date_received": "2025-07-25"
+  },
+  {
+    "chunk_id": "CH0065",
+    "candidate_id": "C049",
+    "section_type": "Skills",
+    "text": "R, dbt, Looker, Experimentation, Data Modeling",
+    "date_received": "2025-07-25"
+  },
+  {
+    "chunk_id": "CH0066",
+    "candidate_id": "C049",
+    "section_type": "Education",
+    "text": "M.S. in Information Systems, Maple City College, 2012",
+    "date_received": "2025-07-25"
+  },
+  {
+    "chunk_id": "CH0067",
+    "candidate_id": "C047",
+    "section_type": "Experience",
+    "text": "Business Intelligence Analyst, Aurora Systems (2024 - Present)\n- Worked closely with the PM team to define event tracking for the funnel\n- Automated weekly executive reporting, saving the team ~10 hours per week\n- Built a churn prediction model that improved retention team targeting by 15%",
+    "date_received": "2025-08-28"
+  },
+  {
+    "chunk_id": "CH0068",
+    "candidate_id": "C047",
+    "section_type": "Experience",
+    "text": "Data Analyst, Pebblestone Financial (2022 - 2024)\n- Worked closely with the PM team to define event tracking for the funnel\n- Automated weekly executive reporting, saving the team ~10 hours per week\n- Developed a predictive model to flag at-risk customers for the retention team",
+    "date_received": "2025-08-28"
+  },
+  {
+    "chunk_id": "CH0069",
+    "candidate_id": "C047",
+    "section_type": "Skills",
+    "text": "SQL, Python, Tableau, A/B Testing, Statistics",
+    "date_received": "2025-08-28"
+  },
+  {
+    "chunk_id": "CH0070",
+    "candidate_id": "C047",
+    "section_type": "Education",
+    "text": "B.S. in Computer Science, Riverbend University, 2016",
+    "date_received": "2025-08-28"
+  },
+  {
+    "chunk_id": "CH0071",
+    "candidate_id": "C045",
+    "section_type": "Experience",
+    "text": "UX Designer, Sunlit Foods (2025 - Present)\n- Conducted regular in-depth user testing sessions ahead of each release\n- Redesigned the checkout UI, improving task completion in usability tests by 25%\n- Standardized reusable design components adopted org-wide",
+    "date_received": "2026-01-09"
+  },
+  {
+    "chunk_id": "CH0072",
+    "candidate_id": "C045",
+    "section_type": "Skills",
+    "text": "Sketch, User Research, Interaction Design, Wireframing",
+    "date_received": "2026-01-09"
+  },
+  {
+    "chunk_id": "CH0073",
+    "candidate_id": "C045",
+    "section_type": "Education",
+    "text": "M.S. in Information Systems, Lakeside College, 2014",
+    "date_received": "2026-01-09"
+  },
+  {
+    "chunk_id": "CH0074",
+    "candidate_id": "C035",
+    "section_type": "Experience",
+    "text": "Account Executive, Northstar Analytics (2025 - Present)\n- Built and ran the outbound prospecting playbook for the SMB segment\n- Closed $1.2M in new annual recurring revenue across 30 enterprise accounts\n- Secured a long-term agreement with a major enterprise logistics customer",
+    "date_received": "2025-12-26"
+  },
+  {
+    "chunk_id": "CH0075",
+    "candidate_id": "C035",
+    "section_type": "Experience",
+    "text": "Sales Development Representative, Clearwave Media (2022 - 2024)\n- Secured a long-term agreement with a major enterprise logistics customer\n- Drove significant new recurring revenue growth through enterprise account wins\n- Beat sales targets by more than 20% for a year and a half straight",
+    "date_received": "2025-12-26"
+  },
+  {
+    "chunk_id": "CH0076",
+    "candidate_id": "C035",
+    "section_type": "Skills",
+    "text": "Cold Calling, SMB Sales, CRM Hygiene, Upselling",
+    "date_received": "2025-12-26"
+  },
+  {
+    "chunk_id": "CH0077",
+    "candidate_id": "C035",
+    "section_type": "Education",
+    "text": "B.S. in Business Administration, Riverbend University, 2015",
+    "date_received": "2025-12-26"
+  },
+  {
+    "chunk_id": "CH0078",
+    "candidate_id": "C033",
+    "section_type": "Experience",
+    "text": "Account Executive, Vantage Commerce (2024 - Present)\n- Owned top-of-funnel outreach strategy for small business customers\n- Consistently exceeded quota by 120%+ for six consecutive quarters\n- Drove significant new recurring revenue growth through enterprise account wins",
+    "date_received": "2026-09-10"
+  },
+  {
+    "chunk_id": "CH0079",
+    "candidate_id": "C033",
+    "section_type": "Experience",
+    "text": "Enterprise Sales Manager, Nimbus Retail (2023 - 2025)\n- Landed a large multi-year deal with a top-tier logistics client\n- Generated over a million dollars in new ARR from enterprise deals\n- Delivered quota over-attainment across six straight quarters",
+    "date_received": "2026-09-10"
+  },
+  {
+    "chunk_id": "CH0080",
+    "candidate_id": "C033",
+    "section_type": "Skills",
+    "text": "Salesforce, Outbound Prospecting, Negotiation, Account Management, Forecasting",
+    "date_received": "2026-09-10"
+  },
+  {
+    "chunk_id": "CH0081",
+    "candidate_id": "C033",
+    "section_type": "Education",
+    "text": "B.S. in Economics, Union Polytechnic, 2011",
+    "date_received": "2026-09-10"
+  },
+  {
+    "chunk_id": "CH0082",
+    "candidate_id": "C034",
+    "section_type": "Experience",
+    "text": "Account Executive, Harborlight Insurance (2025 - Present)\n- Negotiated and closed a multi-year contract with a Fortune 500 logistics company\n- Owned top-of-funnel outreach strategy for small business customers\n- Generated over a million dollars in new ARR from enterprise deals",
+    "date_received": "2026-06-13"
+  },
+  {
+    "chunk_id": "CH0083",
+    "candidate_id": "C034",
+    "section_type": "Experience",
+    "text": "Account Executive, Meadowbrook Software (2023 - 2025)\n- Built and ran the outbound prospecting playbook for the SMB segment\n- Closed $1.2M in new annual recurring revenue across 30 enterprise accounts\n- Consistently exceeded quota by 120%+ for six consecutive quarters",
+    "date_received": "2026-06-13"
+  },
+  {
+    "chunk_id": "CH0084",
+    "candidate_id": "C034",
+    "section_type": "Experience",
+    "text": "Enterprise Sales Manager, Aurora Systems (2020 - 2022)\n- Owned top-of-funnel outreach strategy for small business customers\n- Secured a long-term agreement with a major enterprise logistics customer\n- Beat sales targets by more than 20% for a year and a half straight",
+    "date_received": "2026-06-13"
+  },
+  {
+    "chunk_id": "CH0085",
+    "candidate_id": "C034",
+    "section_type": "Skills",
+    "text": "Cold Calling, SMB Sales, CRM Hygiene, Upselling",
+    "date_received": "2026-06-13"
+  },
+  {
+    "chunk_id": "CH0086",
+    "candidate_id": "C034",
+    "section_type": "Education",
+    "text": "B.S. in Computer Science, Riverbend University, 2009",
+    "date_received": "2026-06-13"
+  },
+  {
+    "chunk_id": "CH0087",
+    "candidate_id": "C027",
+    "section_type": "Experience",
+    "text": "Customer Support Specialist, Ironbridge Robotics (2025 - Present)\n- Resolved 60+ customer tickets daily with a 96% satisfaction score\n- Identified a recurring billing bug and escalated it to engineering, preventing 500+ future tickets\n- Led new-hire training sessions for the support team's tooling and workflow",
+    "date_received": "2026-05-28"
+  },
+  {
+    "chunk_id": "CH0088",
+    "candidate_id": "C027",
+    "section_type": "Skills",
+    "text": "Zendesk, Intercom, Customer Empathy, Conflict Resolution, SLA Management",
+    "date_received": "2026-05-28"
+  },
+  {
+    "chunk_id": "CH0089",
+    "candidate_id": "C027",
+    "section_type": "Education",
+    "text": "B.A. in Communications, Lakeside College, 2023",
+    "date_received": "2026-05-28"
+  },
+  {
+    "chunk_id": "CH0090",
+    "candidate_id": "C023",
+    "section_type": "Experience",
+    "text": "Software Engineer, Nimbus Retail (2024 - Present)\n- Architected the transition off the old monolith onto microservices\n- Developed ML-driven content ranking for the homepage feed\n- Set up continuous delivery tooling that made releases fast and routine",
+    "date_received": "2025-12-04"
+  },
+  {
+    "chunk_id": "CH0091",
+    "candidate_id": "C023",
+    "section_type": "Experience",
+    "text": "Senior Software Engineer, Northstar Analytics (2022 - 2024)\n- Grew junior team members through regular code review and pairing\n- Implemented a recommendation engine using collaborative filtering in Python\n- Set up continuous delivery tooling that made releases fast and routine",
+    "date_received": "2025-12-04"
+  },
+  {
+    "chunk_id": "CH0092",
+    "candidate_id": "C023",
+    "section_type": "Experience",
+    "text": "Senior Software Engineer, Cobalt Health (2020 - 2022)\n- Automated the release process, shrinking deployment time by nearly 90%\n- Architected the transition off the old monolith onto microservices\n- Grew junior team members through regular code review and pairing",
+    "date_received": "2025-12-04"
+  },
+  {
+    "chunk_id": "CH0093",
+    "candidate_id": "C023",
+    "section_type": "Skills",
+    "text": "JavaScript, React, Node.js, Docker, CI/CD, GraphQL",
+    "date_received": "2025-12-04"
+  },
+  {
+    "chunk_id": "CH0094",
+    "candidate_id": "C023",
+    "section_type": "Education",
+    "text": "B.S. in Economics, Northfield Institute of Technology, 2010",
+    "date_received": "2025-12-04"
+  },
+  {
+    "chunk_id": "CH0095",
+    "candidate_id": "C048",
+    "section_type": "Experience",
+    "text": "Business Intelligence Analyst, Meadowbrook Software (2025 - Present)\n- Set up analytics instrumentation for core product funnels\n- Automated weekly executive reporting, saving the team ~10 hours per week\n- Created a machine learning model that improved how retention efforts were targeted",
+    "date_received": "2026-05-26"
+  },
+  {
+    "chunk_id": "CH0096",
+    "candidate_id": "C048",
+    "section_type": "Skills",
+    "text": "R, dbt, Looker, Experimentation, Data Modeling",
+    "date_received": "2026-05-26"
+  },
+  {
+    "chunk_id": "CH0097",
+    "candidate_id": "C048",
+    "section_type": "Education",
+    "text": "B.S. in Computer Science, Union Polytechnic, 2021",
+    "date_received": "2026-05-26"
+  },
+  {
+    "chunk_id": "CH0098",
+    "candidate_id": "C050",
+    "section_type": "Experience",
+    "text": "Analytics Associate, Basecamp Mobility (2024 - Present)\n- Built a churn prediction model that improved retention team targeting by 15%\n- Replaced manual leadership reports with an automated pipeline\n- Partnered with product to define and instrument key funnel metrics",
+    "date_received": "2026-02-22"
+  },
+  {
+    "chunk_id": "CH0099",
+    "candidate_id": "C050",
+    "section_type": "Experience",
+    "text": "Analytics Associate, Pebblestone Financial (2022 - 2024)\n- Worked closely with the PM team to define event tracking for the funnel\n- Replaced manual leadership reports with an automated pipeline\n- Built a churn prediction model that improved retention team targeting by 15%",
+    "date_received": "2026-02-22"
+  },
+  {
+    "chunk_id": "CH0100",
+    "candidate_id": "C050",
+    "section_type": "Experience",
+    "text": "Data Analyst, Brightloop (2020 - 2022)\n- Built a churn prediction model that improved retention team targeting by 15%\n- Worked closely with the PM team to define event tracking for the funnel\n- Automated weekly executive reporting, saving the team ~10 hours per week",
+    "date_received": "2026-02-22"
+  },
+  {
+    "chunk_id": "CH0101",
+    "candidate_id": "C050",
+    "section_type": "Skills",
+    "text": "SQL, Python, Tableau, A/B Testing, Statistics",
+    "date_received": "2026-02-22"
+  },
+  {
+    "chunk_id": "CH0102",
+    "candidate_id": "C050",
+    "section_type": "Education",
+    "text": "B.A. in Communications, Maple City College, 2010",
+    "date_received": "2026-02-22"
+  },
+  {
+    "chunk_id": "CH0103",
+    "candidate_id": "C014",
+    "section_type": "Experience",
+    "text": "Senior Product Manager, Vantage Commerce (2025 - Present)\n- Led the checkout redesign that reduced cart abandonment by 18%\n- Built the measurement framework growth leadership used to judge experiment success\n- Ran A/B tests on pricing tiers that increased conversion by 9%",
+    "date_received": "2025-03-30"
+  },
+  {
+    "chunk_id": "CH0104",
+    "candidate_id": "C014",
+    "section_type": "Experience",
+    "text": "Associate Product Manager, Meadowbrook Software (2022 - 2024)\n- Ran discovery interviews with 40+ customers to prioritize the onboarding roadmap\n- Launched an internal reporting tool adopted company-wide by ops and finance teams\n- Owned the payments product area end-to-end, cutting drop-off at purchase by nearly a fifth",
+    "date_received": "2025-03-30"
+  },
+  {
+    "chunk_id": "CH0105",
+    "candidate_id": "C014",
+    "section_type": "Skills",
+    "text": "Product Strategy, User Research, JIRA, Amplitude, Cross-functional Leadership",
+    "date_received": "2025-03-30"
+  },
+  {
+    "chunk_id": "CH0106",
+    "candidate_id": "C014",
+    "section_type": "Education",
+    "text": "B.A. in Psychology, Riverbend University, 2017",
+    "date_received": "2025-03-30"
+  },
+  {
+    "chunk_id": "CH0107",
+    "candidate_id": "C020",
+    "section_type": "Experience",
+    "text": "Backend Engineer, Northstar Analytics (2024 - Present)\n- Rewrote the payments backend for performance, dropping tail latency significantly\n- Designed and shipped a microservices migration from a legacy monolith\n- Developed ML-driven content ranking for the homepage feed",
+    "date_received": "2026-05-15"
+  },
+  {
+    "chunk_id": "CH0108",
+    "candidate_id": "C020",
+    "section_type": "Experience",
+    "text": "Senior Software Engineer, Brightloop (2022 - 2024)\n- Rewrote the payments backend for performance, dropping tail latency significantly\n- Set up continuous delivery tooling that made releases fast and routine\n- Built a Python-based recommender system to personalize the product feed",
+    "date_received": "2026-05-15"
+  },
+  {
+    "chunk_id": "CH0109",
+    "candidate_id": "C020",
+    "section_type": "Skills",
+    "text": "Java, Spring Boot, Microservices, Kafka, System Design",
+    "date_received": "2026-05-15"
+  },
+  {
+    "chunk_id": "CH0110",
+    "candidate_id": "C020",
+    "section_type": "Education",
+    "text": "M.S. in Information Systems, Riverbend University, 2017",
+    "date_received": "2026-05-15"
+  },
+  {
+    "chunk_id": "CH0111",
+    "candidate_id": "C017",
+    "section_type": "Experience",
+    "text": "Backend Engineer, Ironbridge Robotics (2025 - Present)\n- Built a Python-based recommender system to personalize the product feed\n- Led the decomposition of a monolithic codebase into independently deployable services\n- Rebuilt the checkout service in Go, cutting p95 latency by 40%",
+    "date_received": "2026-06-09"
+  },
+  {
+    "chunk_id": "CH0112",
+    "candidate_id": "C017",
+    "section_type": "Skills",
+    "text": "Java, Spring Boot, Microservices, Kafka, System Design",
+    "date_received": "2026-06-09"
+  },
+  {
+    "chunk_id": "CH0113",
+    "candidate_id": "C017",
+    "section_type": "Education",
+    "text": "M.S. in Information Systems, Lakeside College, 2015",
+    "date_received": "2026-06-09"
+  },
+  {
+    "chunk_id": "CH0114",
+    "candidate_id": "C015",
+    "section_type": "Experience",
+    "text": "Software Engineer, Cobalt Health (2024 - Present)\n- Migrated the purchase-flow API to a faster service architecture\n- Mentored 3 junior engineers and led weekly code reviews\n- Automated the release process, shrinking deployment time by nearly 90%",
+    "date_received": "2025-07-16"
+  },
+  {
+    "chunk_id": "CH0115",
+    "candidate_id": "C015",
+    "section_type": "Experience",
+    "text": "Senior Software Engineer, Quietwork Tools (2023 - 2025)\n- Set up continuous delivery tooling that made releases fast and routine\n- Led the decomposition of a monolithic codebase into independently deployable services\n- Took ownership of onboarding and mentoring new engineering hires",
+    "date_received": "2025-07-16"
+  },
+  {
+    "chunk_id": "CH0116",
+    "candidate_id": "C015",
+    "section_type": "Skills",
+    "text": "Python, Machine Learning, Pandas, scikit-learn, SQL",
+    "date_received": "2025-07-16"
+  },
+  {
+    "chunk_id": "CH0117",
+    "candidate_id": "C015",
+    "section_type": "Education",
+    "text": "B.S. in Business Administration, Northfield Institute of Technology, 2010",
+    "date_received": "2025-07-16"
+  },
+  {
+    "chunk_id": "CH0118",
+    "candidate_id": "C019",
+    "section_type": "Experience",
+    "text": "Backend Engineer, Ironbridge Robotics (2024 - Present)\n- Mentored 3 junior engineers and led weekly code reviews\n- Automated the release process, shrinking deployment time by nearly 90%\n- Rebuilt the checkout service in Go, cutting p95 latency by 40%",
+    "date_received": "2025-08-24"
+  },
+  {
+    "chunk_id": "CH0119",
+    "candidate_id": "C019",
+    "section_type": "Experience",
+    "text": "Backend Engineer, Clearwave Media (2022 - 2024)\n- Rewrote the payments backend for performance, dropping tail latency significantly\n- Grew junior team members through regular code review and pairing\n- Set up continuous delivery tooling that made releases fast and routine",
+    "date_received": "2025-08-24"
+  },
+  {
+    "chunk_id": "CH0120",
+    "candidate_id": "C019",
+    "section_type": "Skills",
+    "text": "Java, Spring Boot, Microservices, Kafka, System Design",
+    "date_received": "2025-08-24"
+  },
+  {
+    "chunk_id": "CH0121",
+    "candidate_id": "C019",
+    "section_type": "Education",
+    "text": "B.A. in Psychology, Riverbend University, 2011",
+    "date_received": "2025-08-24"
+  },
+  {
+    "chunk_id": "CH0122",
+    "candidate_id": "C025",
+    "section_type": "Experience",
+    "text": "Support Team Lead, Sunlit Foods (2025 - Present)\n- Onboarded new customer support staff onto tools and escalation paths\n- Built out the customer-facing FAQ library to deflect common questions\n- Caught a pattern in payment-related complaints and routed it to the right engineering team",
+    "date_received": "2025-05-11"
+  },
+  {
+    "chunk_id": "CH0123",
+    "candidate_id": "C025",
+    "section_type": "Skills",
+    "text": "Freshdesk, Ticket Triage, Onboarding, Process Documentation",
+    "date_received": "2025-05-11"
+  },
+  {
+    "chunk_id": "CH0124",
+    "candidate_id": "C025",
+    "section_type": "Education",
+    "text": "B.A. in Psychology, Maple City College, 2015",
+    "date_received": "2025-05-11"
+  },
+  {
+    "chunk_id": "CH0125",
+    "candidate_id": "C040",
+    "section_type": "Experience",
+    "text": "Account Executive, Cobalt Health (2024 - Present)\n- Secured a long-term agreement with a major enterprise logistics customer\n- Beat sales targets by more than 20% for a year and a half straight\n- Owned top-of-funnel outreach strategy for small business customers",
+    "date_received": "2026-04-23"
+  },
+  {
+    "chunk_id": "CH0126",
+    "candidate_id": "C040",
+    "section_type": "Experience",
+    "text": "Account Executive, Clearwave Media (2022 - 2024)\n- Designed the cold outreach process that fed the SMB pipeline\n- Delivered quota over-attainment across six straight quarters\n- Drove significant new recurring revenue growth through enterprise account wins",
+    "date_received": "2026-04-23"
+  },
+  {
+    "chunk_id": "CH0127",
+    "candidate_id": "C040",
+    "section_type": "Experience",
+    "text": "Account Executive, Basecamp Mobility (2021 - 2023)\n- Landed a large multi-year deal with a top-tier logistics client\n- Owned top-of-funnel outreach strategy for small business customers\n- Consistently exceeded quota by 120%+ for six consecutive quarters",
+    "date_received": "2026-04-23"
+  },
+  {
+    "chunk_id": "CH0128",
+    "candidate_id": "C040",
+    "section_type": "Skills",
+    "text": "HubSpot, Enterprise Sales, Contract Negotiation, Pipeline Management",
+    "date_received": "2026-04-23"
+  },
+  {
+    "chunk_id": "CH0129",
+    "candidate_id": "C040",
+    "section_type": "Education",
+    "text": "B.S. in Computer Science, Union Polytechnic, 2023",
+    "date_received": "2026-04-23"
+  },
+  {
+    "chunk_id": "CH0130",
+    "candidate_id": "C018",
+    "section_type": "Experience",
+    "text": "Software Engineer, Pebblestone Financial (2025 - Present)\n- Developed ML-driven content ranking for the homepage feed\n- Rewrote the payments backend for performance, dropping tail latency significantly\n- Grew junior team members through regular code review and pairing",
+    "date_received": "2025-10-21"
+  },
+  {
+    "chunk_id": "CH0131",
+    "candidate_id": "C018",
+    "section_type": "Experience",
+    "text": "Backend Engineer, Quietwork Tools (2023 - 2025)\n- Built CI/CD pipelines that cut deploy time from 45 minutes to 6\n- Led the decomposition of a monolithic codebase into independently deployable services\n- Mentored 3 junior engineers and led weekly code reviews",
+    "date_received": "2025-10-21"
+  },
+  {
+    "chunk_id": "CH0132",
+    "candidate_id": "C018",
+    "section_type": "Experience",
+    "text": "Senior Software Engineer, Cobalt Health (2021 - 2023)\n- Led the decomposition of a monolithic codebase into independently deployable services\n- Implemented a recommendation engine using collaborative filtering in Python\n- Mentored 3 junior engineers and led weekly code reviews",
+    "date_received": "2025-10-21"
+  },
+  {
+    "chunk_id": "CH0133",
+    "candidate_id": "C018",
+    "section_type": "Skills",
+    "text": "Python, Go, PostgreSQL, Kubernetes, AWS, REST APIs",
+    "date_received": "2025-10-21"
+  },
+  {
+    "chunk_id": "CH0134",
+    "candidate_id": "C018",
+    "section_type": "Education",
+    "text": "B.A. in Communications, Union Polytechnic, 2020",
+    "date_received": "2025-10-21"
+  },
+  {
+    "chunk_id": "CH0135",
+    "candidate_id": "C009",
+    "section_type": "Experience",
+    "text": "Associate Product Manager, Brightloop (2025 - Present)\n- Wrote PRDs and managed a cross-functional team of 6 engineers and 2 designers\n- Synthesized customer feedback loops to guide the new-user activation roadmap\n- Drove a full overhaul of the online purchase flow, improving completion rates across mobile and web",
+    "date_received": "2026-05-10"
+  },
+  {
+    "chunk_id": "CH0136",
+    "candidate_id": "C009",
+    "section_type": "Experience",
+    "text": "Product Manager, Vantage Commerce (2023 - 2025)\n- Led the checkout redesign that reduced cart abandonment by 18%\n- Used controlled experiments to validate a new pricing model before company-wide rollout\n- Shipped a self-serve analytics dashboard used by 200+ internal stakeholders",
+    "date_received": "2026-05-10"
+  },
+  {
+    "chunk_id": "CH0137",
+    "candidate_id": "C009",
+    "section_type": "Skills",
+    "text": "Agile/Scrum, Data Analysis, Competitive Analysis, PRD Writing, Pricing Strategy",
+    "date_received": "2026-05-10"
+  },
+  {
+    "chunk_id": "CH0138",
+    "candidate_id": "C009",
+    "section_type": "Education",
+    "text": "B.S. in Economics, Union Polytechnic, 2014",
+    "date_received": "2026-05-10"
+  },
+  {
+    "chunk_id": "CH0139",
+    "candidate_id": "C052",
+    "section_type": "Experience",
+    "text": "Business Intelligence Analyst, Fernway Labs (2024 - Present)\n- Cut hours of manual report-building by automating the weekly exec dashboard\n- Built a churn prediction model that improved retention team targeting by 15%\n- Set up analytics instrumentation for core product funnels",
+    "date_received": "2025-06-10"
+  },
+  {
+    "chunk_id": "CH0140",
+    "candidate_id": "C052",
+    "section_type": "Skills",
+    "text": "SQL, Python, Tableau, A/B Testing, Statistics",
+    "date_received": "2025-06-10"
+  },
+  {
+    "chunk_id": "CH0141",
+    "candidate_id": "C052",
+    "section_type": "Education",
+    "text": "M.S. in Information Systems, Union Polytechnic, 2017",
+    "date_received": "2025-06-10"
+  },
+  {
+    "chunk_id": "CH0142",
+    "candidate_id": "C010",
+    "section_type": "Experience",
+    "text": "Senior Product Manager, Meadowbrook Software (2025 - Present)\n- Owned the payments product area end-to-end, cutting drop-off at purchase by nearly a fifth\n- Experimented with subscription pricing structures, lifting sign-up conversion meaningfully\n- Owned the growth team's KPI framework and reported results to the executive staff",
+    "date_received": "2025-06-26"
+  },
+  {
+    "chunk_id": "CH0143",
+    "candidate_id": "C010",
+    "section_type": "Experience",
+    "text": "Senior Product Manager, Sunlit Foods (2023 - 2025)\n- Experimented with subscription pricing structures, lifting sign-up conversion meaningfully\n- Drove a full overhaul of the online purchase flow, improving completion rates across mobile and web\n- Coordinated a squad of engineers and designers from spec to launch",
+    "date_received": "2025-06-26"
+  },
+  {
+    "chunk_id": "CH0144",
+    "candidate_id": "C010",
+    "section_type": "Experience",
+    "text": "Product Manager, Harborlight Insurance (2021 - 2023)\n- Ran discovery interviews with 40+ customers to prioritize the onboarding roadmap\n- Experimented with subscription pricing structures, lifting sign-up conversion meaningfully\n- Defined and tracked north-star metrics for the growth team, presenting weekly to leadership",
+    "date_received": "2025-06-26"
+  },
+  {
+    "chunk_id": "CH0145",
+    "candidate_id": "C010",
+    "section_type": "Skills",
+    "text": "Agile/Scrum, Data Analysis, Competitive Analysis, PRD Writing, Pricing Strategy",
+    "date_received": "2025-06-26"
+  },
+  {
+    "chunk_id": "CH0146",
+    "candidate_id": "C010",
+    "section_type": "Education",
+    "text": "B.A. in Communications, Riverbend University, 2010",
+    "date_received": "2025-06-26"
+  },
+  {
+    "chunk_id": "CH0147",
+    "candidate_id": "C039",
+    "section_type": "Experience",
+    "text": "Sales Development Representative, Ironbridge Robotics (2024 - Present)\n- Drove significant new recurring revenue growth through enterprise account wins\n- Consistently exceeded quota by 120%+ for six consecutive quarters\n- Owned top-of-funnel outreach strategy for small business customers",
+    "date_received": "2026-06-19"
+  },
+  {
+    "chunk_id": "CH0148",
+    "candidate_id": "C039",
+    "section_type": "Experience",
+    "text": "Sales Development Representative, Vantage Commerce (2022 - 2024)\n- Drove significant new recurring revenue growth through enterprise account wins\n- Consistently exceeded quota by 120%+ for six consecutive quarters\n- Secured a long-term agreement with a major enterprise logistics customer",
+    "date_received": "2026-06-19"
+  },
+  {
+    "chunk_id": "CH0149",
+    "candidate_id": "C039",
+    "section_type": "Skills",
+    "text": "Cold Calling, SMB Sales, CRM Hygiene, Upselling",
+    "date_received": "2026-06-19"
+  },
+  {
+    "chunk_id": "CH0150",
+    "candidate_id": "C039",
+    "section_type": "Education",
+    "text": "B.A. in Psychology, State University, 2021",
+    "date_received": "2026-06-19"
+  },
+  {
+    "chunk_id": "CH0151",
+    "candidate_id": "C021",
+    "section_type": "Experience",
+    "text": "Senior Software Engineer, Aurora Systems (2024 - Present)\n- Grew junior team members through regular code review and pairing\n- Rebuilt the checkout service in Go, cutting p95 latency by 40%\n- Led the decomposition of a monolithic codebase into independently deployable services",
+    "date_received": "2026-02-04"
+  },
+  {
+    "chunk_id": "CH0152",
+    "candidate_id": "C021",
+    "section_type": "Experience",
+    "text": "Backend Engineer, Vantage Commerce (2022 - 2024)\n- Developed ML-driven content ranking for the homepage feed\n- Mentored 3 junior engineers and led weekly code reviews\n- Architected the transition off the old monolith onto microservices",
+    "date_received": "2026-02-04"
+  },
+  {
+    "chunk_id": "CH0153",
+    "candidate_id": "C021",
+    "section_type": "Experience",
+    "text": "Senior Software Engineer, Quietwork Tools (2021 - 2023)\n- Migrated the purchase-flow API to a faster service architecture\n- Set up continuous delivery tooling that made releases fast and routine\n- Developed ML-driven content ranking for the homepage feed",
+    "date_received": "2026-02-04"
+  },
+  {
+    "chunk_id": "CH0154",
+    "candidate_id": "C021",
+    "section_type": "Skills",
+    "text": "Java, Spring Boot, Microservices, Kafka, System Design",
+    "date_received": "2026-02-04"
+  },
+  {
+    "chunk_id": "CH0155",
+    "candidate_id": "C021",
+    "section_type": "Education",
+    "text": "B.A. in Communications, State University, 2017",
+    "date_received": "2026-02-04"
+  },
+  {
+    "chunk_id": "CH0156",
+    "candidate_id": "C006",
+    "section_type": "Experience",
+    "text": "Product Manager, Harborlight Insurance (2025 - Present)\n- Synthesized customer feedback loops to guide the new-user activation roadmap\n- Ran A/B tests on pricing tiers that increased conversion by 9%\n- Owned the growth team's KPI framework and reported results to the executive staff",
+    "date_received": "2025-11-26"
+  },
+  {
+    "chunk_id": "CH0157",
+    "candidate_id": "C006",
+    "section_type": "Experience",
+    "text": "Senior Product Manager, Nimbus Retail (2022 - 2024)\n- Acted as the single point of accountability for a multi-discipline product squad\n- Delivered a metrics workspace that replaced manual spreadsheet reporting for the whole org\n- Led the checkout redesign that reduced cart abandonment by 18%",
+    "date_received": "2025-11-26"
+  },
+  {
+    "chunk_id": "CH0158",
+    "candidate_id": "C006",
+    "section_type": "Skills",
+    "text": "Agile/Scrum, Data Analysis, Competitive Analysis, PRD Writing, Pricing Strategy",
+    "date_received": "2025-11-26"
+  },
+  {
+    "chunk_id": "CH0159",
+    "candidate_id": "C006",
+    "section_type": "Education",
+    "text": "B.S. in Computer Science, Union Polytechnic, 2011",
+    "date_received": "2025-11-26"
+  },
+  {
+    "chunk_id": "CH0160",
+    "candidate_id": "C005",
+    "section_type": "Experience",
+    "text": "Product Manager, Sunlit Foods (2025 - Present)\n- Acted as the single point of accountability for a multi-discipline product squad\n- Launched an internal reporting tool adopted company-wide by ops and finance teams\n- Partnered with UX research to talk to dozens of new users and reshape the first-week experience",
+    "date_received": "2025-08-10"
+  },
+  {
+    "chunk_id": "CH0161",
+    "candidate_id": "C005",
+    "section_type": "Experience",
+    "text": "Associate Product Manager, Pebblestone Financial (2022 - 2024)\n- Ran discovery interviews with 40+ customers to prioritize the onboarding roadmap\n- Delivered a metrics workspace that replaced manual spreadsheet reporting for the whole org\n- Used controlled experiments to validate a new pricing model before company-wide rollout",
+    "date_received": "2025-08-10"
+  },
+  {
+    "chunk_id": "CH0162",
+    "candidate_id": "C005",
+    "section_type": "Skills",
+    "text": "Agile/Scrum, Data Analysis, Competitive Analysis, PRD Writing, Pricing Strategy",
+    "date_received": "2025-08-10"
+  },
+  {
+    "chunk_id": "CH0163",
+    "candidate_id": "C005",
+    "section_type": "Education",
+    "text": "B.A. in Psychology, Union Polytechnic, 2021",
+    "date_received": "2025-08-10"
+  },
+  {
+    "chunk_id": "CH0164",
+    "candidate_id": "C029",
+    "section_type": "Experience",
+    "text": "Support Team Lead, Brightloop (2024 - Present)\n- Maintained top-tier satisfaction ratings across a heavy daily ticket load\n- Authored self-serve documentation that cut down repetitive support volume\n- Led new-hire training sessions for the support team's tooling and workflow",
+    "date_received": "2025-10-27"
+  },
+  {
+    "chunk_id": "CH0165",
+    "candidate_id": "C029",
+    "section_type": "Experience",
+    "text": "Customer Support Specialist, Basecamp Mobility (2022 - 2024)\n- Built out the customer-facing FAQ library to deflect common questions\n- Led new-hire training sessions for the support team's tooling and workflow\n- Flagged a systemic billing issue to engineering that headed off a wave of complaints",
+    "date_received": "2025-10-27"
+  },
+  {
+    "chunk_id": "CH0166",
+    "candidate_id": "C029",
+    "section_type": "Skills",
+    "text": "Salesforce Service Cloud, Live Chat, Escalation Handling, Knowledge Base Writing",
+    "date_received": "2025-10-27"
+  },
+  {
+    "chunk_id": "CH0167",
+    "candidate_id": "C029",
+    "section_type": "Education",
+    "text": "M.S. in Information Systems, Riverbend University, 2016",
+    "date_received": "2025-10-27"
+  },
+  {
+    "chunk_id": "CH0168",
+    "candidate_id": "C032",
+    "section_type": "Experience",
+    "text": "Customer Success Associate, Ironbridge Robotics (2024 - Present)\n- Flagged a systemic billing issue to engineering that headed off a wave of complaints\n- Led new-hire training sessions for the support team's tooling and workflow\n- Authored self-serve documentation that cut down repetitive support volume",
+    "date_received": "2026-03-10"
+  },
+  {
+    "chunk_id": "CH0169",
+    "candidate_id": "C032",
+    "section_type": "Experience",
+    "text": "Support Team Lead, Meadowbrook Software (2022 - 2024)\n- Led new-hire training sessions for the support team's tooling and workflow\n- Resolved 60+ customer tickets daily with a 96% satisfaction score\n- Flagged a systemic billing issue to engineering that headed off a wave of complaints",
+    "date_received": "2026-03-10"
+  },
+  {
+    "chunk_id": "CH0170",
+    "candidate_id": "C032",
+    "section_type": "Skills",
+    "text": "Zendesk, Intercom, Customer Empathy, Conflict Resolution, SLA Management",
+    "date_received": "2026-03-10"
+  },
+  {
+    "chunk_id": "CH0171",
+    "candidate_id": "C032",
+    "section_type": "Education",
+    "text": "B.A. in Psychology, Union Polytechnic, 2013",
+    "date_received": "2026-03-10"
+  },
+  {
+    "chunk_id": "CH0172",
+    "candidate_id": "C007",
+    "section_type": "Experience",
+    "text": "Senior Product Manager, Brightloop (2025 - Present)\n- Acted as the single point of accountability for a multi-discipline product squad\n- Drove a full overhaul of the online purchase flow, improving completion rates across mobile and web\n- Delivered a metrics workspace that replaced manual spreadsheet reporting for the whole org",
+    "date_received": "2026-07-14"
+  },
+  {
+    "chunk_id": "CH0173",
+    "candidate_id": "C007",
+    "section_type": "Experience",
+    "text": "Product Manager, Ironbridge Robotics (2023 - 2025)\n- Delivered a metrics workspace that replaced manual spreadsheet reporting for the whole org\n- Partnered with UX research to talk to dozens of new users and reshape the first-week experience\n- Owned the payments product area end-to-end, cutting drop-off at purchase by nearly a fifth",
+    "date_received": "2026-07-14"
+  },
+  {
+    "chunk_id": "CH0174",
+    "candidate_id": "C007",
+    "section_type": "Experience",
+    "text": "Product Manager, Quietwork Tools (2021 - 2023)\n- Shipped a self-serve analytics dashboard used by 200+ internal stakeholders\n- Ran A/B tests on pricing tiers that increased conversion by 9%\n- Synthesized customer feedback loops to guide the new-user activation roadmap",
+    "date_received": "2026-07-14"
+  },
+  {
+    "chunk_id": "CH0175",
+    "candidate_id": "C007",
+    "section_type": "Skills",
+    "text": "Roadmapping, Prioritization (RICE), SQL, Figma, A/B Testing, Stakeholder Management",
+    "date_received": "2026-07-14"
+  },
+  {
+    "chunk_id": "CH0176",
+    "candidate_id": "C007",
+    "section_type": "Education",
+    "text": "M.S. in Information Systems, State University, 2023",
+    "date_received": "2026-07-14"
+  },
+  {
+    "chunk_id": "CH0177",
+    "candidate_id": "C044",
+    "section_type": "Experience",
+    "text": "Senior Product Designer, Pebblestone Financial (2024 - Present)\n- Owned the shared UI component library used across product teams\n- Conducted regular in-depth user testing sessions ahead of each release\n- Simplified the buy-flow screens after multiple rounds of user testing",
+    "date_received": "2025-11-24"
+  },
+  {
+    "chunk_id": "CH0178",
+    "candidate_id": "C044",
+    "section_type": "Experience",
+    "text": "Senior Product Designer, Cobalt Health (2023 - 2025)\n- Simplified the buy-flow screens after multiple rounds of user testing\n- Owned the shared UI component library used across product teams\n- Led moderated research rounds to validate designs before shipping",
+    "date_received": "2025-11-24"
+  },
+  {
+    "chunk_id": "CH0179",
+    "candidate_id": "C044",
+    "section_type": "Experience",
+    "text": "UX Designer, Meadowbrook Software (2020 - 2022)\n- Owned the shared UI component library used across product teams\n- Conducted regular in-depth user testing sessions ahead of each release\n- Redesigned the checkout UI, improving task completion in usability tests by 25%",
+    "date_received": "2025-11-24"
+  },
+  {
+    "chunk_id": "CH0180",
+    "candidate_id": "C044",
+    "section_type": "Skills",
+    "text": "Figma, Design Systems, Usability Testing, Prototyping, Accessibility (WCAG)",
+    "date_received": "2025-11-24"
+  },
+  {
+    "chunk_id": "CH0181",
+    "candidate_id": "C044",
+    "section_type": "Education",
+    "text": "B.A. in Psychology, Riverbend University, 2019",
+    "date_received": "2025-11-24"
+  },
+  {
+    "chunk_id": "CH0182",
+    "candidate_id": "C028",
+    "section_type": "Experience",
+    "text": "Customer Support Specialist, Northstar Analytics (2025 - Present)\n- Built out the customer-facing FAQ library to deflect common questions\n- Identified a recurring billing bug and escalated it to engineering, preventing 500+ future tickets\n- Handled a high volume of daily support requests while keeping CSAT above 95%",
+    "date_received": "2025-09-08"
+  },
+  {
+    "chunk_id": "CH0183",
+    "candidate_id": "C028",
+    "section_type": "Experience",
+    "text": "Customer Success Associate, Sunlit Foods (2022 - 2024)\n- Identified a recurring billing bug and escalated it to engineering, preventing 500+ future tickets\n- Led new-hire training sessions for the support team's tooling and workflow\n- Maintained top-tier satisfaction ratings across a heavy daily ticket load",
+    "date_received": "2025-09-08"
+  },
+  {
+    "chunk_id": "CH0184",
+    "candidate_id": "C028",
+    "section_type": "Experience",
+    "text": "Customer Success Associate, Aurora Systems (2021 - 2023)\n- Maintained top-tier satisfaction ratings across a heavy daily ticket load\n- Led new-hire training sessions for the support team's tooling and workflow\n- Wrote and maintained the help center knowledge base, reducing repeat tickets by 20%",
+    "date_received": "2025-09-08"
+  },
+  {
+    "chunk_id": "CH0185",
+    "candidate_id": "C028",
+    "section_type": "Skills",
+    "text": "Freshdesk, Ticket Triage, Onboarding, Process Documentation",
+    "date_received": "2025-09-08"
+  },
+  {
+    "chunk_id": "CH0186",
+    "candidate_id": "C028",
+    "section_type": "Education",
+    "text": "B.S. in Computer Science, State University, 2021",
+    "date_received": "2025-09-08"
+  },
+  {
+    "chunk_id": "CH0187",
+    "candidate_id": "C026",
+    "section_type": "Experience",
+    "text": "Support Team Lead, Harborlight Insurance (2024 - Present)\n- Built out the customer-facing FAQ library to deflect common questions\n- Caught a pattern in payment-related complaints and routed it to the right engineering team\n- Resolved 60+ customer tickets daily with a 96% satisfaction score",
+    "date_received": "2026-07-01"
+  },
+  {
+    "chunk_id": "CH0188",
+    "candidate_id": "C026",
+    "section_type": "Experience",
+    "text": "Support Team Lead, Brightloop (2023 - 2025)\n- Resolved 60+ customer tickets daily with a 96% satisfaction score\n- Onboarded new customer support staff onto tools and escalation paths\n- Wrote and maintained the help center knowledge base, reducing repeat tickets by 20%",
+    "date_received": "2026-07-01"
+  },
+  {
+    "chunk_id": "CH0189",
+    "candidate_id": "C026",
+    "section_type": "Experience",
+    "text": "Customer Support Specialist, GreenPath Logistics (2020 - 2022)\n- Flagged a systemic billing issue to engineering that headed off a wave of complaints\n- Authored self-serve documentation that cut down repetitive support volume\n- Handled a high volume of daily support requests while keeping CSAT above 95%",
+    "date_received": "2026-07-01"
+  },
+  {
+    "chunk_id": "CH0190",
+    "candidate_id": "C026",
+    "section_type": "Skills",
+    "text": "Salesforce Service Cloud, Live Chat, Escalation Handling, Knowledge Base Writing",
+    "date_received": "2026-07-01"
+  },
+  {
+    "chunk_id": "CH0191",
+    "candidate_id": "C026",
+    "section_type": "Education",
+    "text": "B.S. in Economics, Northfield Institute of Technology, 2016",
+    "date_received": "2026-07-01"
+  },
+  {
+    "chunk_id": "CH0192",
+    "candidate_id": "C031",
+    "section_type": "Experience",
+    "text": "Customer Success Associate, Northstar Analytics (2024 - Present)\n- Resolved 60+ customer tickets daily with a 96% satisfaction score\n- Trained 8 new support hires on the ticketing system and escalation process\n- Caught a pattern in payment-related complaints and routed it to the right engineering team",
+    "date_received": "2026-02-08"
+  },
+  {
+    "chunk_id": "CH0193",
+    "candidate_id": "C031",
+    "section_type": "Experience",
+    "text": "Support Team Lead, Quietwork Tools (2022 - 2024)\n- Built out the customer-facing FAQ library to deflect common questions\n- Led new-hire training sessions for the support team's tooling and workflow\n- Flagged a systemic billing issue to engineering that headed off a wave of complaints",
+    "date_received": "2026-02-08"
+  },
+  {
+    "chunk_id": "CH0194",
+    "candidate_id": "C031",
+    "section_type": "Skills",
+    "text": "Salesforce Service Cloud, Live Chat, Escalation Handling, Knowledge Base Writing",
+    "date_received": "2026-02-08"
+  },
+  {
+    "chunk_id": "CH0195",
+    "candidate_id": "C031",
+    "section_type": "Education",
+    "text": "B.S. in Business Administration, State University, 2017",
+    "date_received": "2026-02-08"
+  },
+  {
+    "chunk_id": "CH0196",
+    "candidate_id": "C004",
+    "section_type": "Experience",
+    "text": "Senior Product Manager, Aurora Systems (2025 - Present)\n- Used controlled experiments to validate a new pricing model before company-wide rollout\n- Delivered a metrics workspace that replaced manual spreadsheet reporting for the whole org\n- Led the checkout redesign that reduced cart abandonment by 18%",
+    "date_received": "2026-01-31"
+  },
+  {
+    "chunk_id": "CH0197",
+    "candidate_id": "C004",
+    "section_type": "Experience",
+    "text": "Associate Product Manager, Harborlight Insurance (2023 - 2025)\n- Partnered with UX research to talk to dozens of new users and reshape the first-week experience\n- Built the measurement framework growth leadership used to judge experiment success\n- Acted as the single point of accountability for a multi-discipline product squad",
+    "date_received": "2026-01-31"
+  },
+  {
+    "chunk_id": "CH0198",
+    "candidate_id": "C004",
+    "section_type": "Skills",
+    "text": "Product Strategy, User Research, JIRA, Amplitude, Cross-functional Leadership",
+    "date_received": "2026-01-31"
+  },
+  {
+    "chunk_id": "CH0199",
+    "candidate_id": "C004",
+    "section_type": "Education",
+    "text": "B.S. in Computer Science, Union Polytechnic, 2009",
+    "date_received": "2026-01-31"
+  },
+  {
+    "chunk_id": "CH0200",
+    "candidate_id": "C002",
+    "section_type": "Experience",
+    "text": "Senior Product Manager, Basecamp Mobility (2024 - Present)\n- Owned the payments product area end-to-end, cutting drop-off at purchase by nearly a fifth\n- Partnered with UX research to talk to dozens of new users and reshape the first-week experience\n- Defined and tracked north-star metrics for the growth team, presenting weekly to leadership",
+    "date_received": "2026-05-18"
+  },
+  {
+    "chunk_id": "CH0201",
+    "candidate_id": "C002",
+    "section_type": "Experience",
+    "text": "Product Manager, Cobalt Health (2022 - 2024)\n- Led the checkout redesign that reduced cart abandonment by 18%\n- Experimented with subscription pricing structures, lifting sign-up conversion meaningfully\n- Owned the growth team's KPI framework and reported results to the executive staff",
+    "date_received": "2026-05-18"
+  },
+  {
+    "chunk_id": "CH0202",
+    "candidate_id": "C002",
+    "section_type": "Skills",
+    "text": "Agile/Scrum, Data Analysis, Competitive Analysis, PRD Writing, Pricing Strategy",
+    "date_received": "2026-05-18"
+  },
+  {
+    "chunk_id": "CH0203",
+    "candidate_id": "C002",
+    "section_type": "Education",
+    "text": "M.S. in Information Systems, State University, 2022",
+    "date_received": "2026-05-18"
+  },
+  {
+    "chunk_id": "CH0204",
+    "candidate_id": "C042",
+    "section_type": "Experience",
+    "text": "UX Designer, Pebblestone Financial (2025 - Present)\n- Overhauled the purchase-flow interface, raising usability test success rates\n- Standardized reusable design components adopted org-wide\n- Led moderated research rounds to validate designs before shipping",
+    "date_received": "2025-03-25"
+  },
+  {
+    "chunk_id": "CH0205",
+    "candidate_id": "C042",
+    "section_type": "Skills",
+    "text": "Sketch, User Research, Interaction Design, Wireframing",
+    "date_received": "2025-03-25"
+  },
+  {
+    "chunk_id": "CH0206",
+    "candidate_id": "C042",
+    "section_type": "Education",
+    "text": "B.S. in Business Administration, Union Polytechnic, 2018",
+    "date_received": "2025-03-25"
+  }
+]

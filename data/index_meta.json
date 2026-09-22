@@ -1,0 +1,7 @@
+{
+  "backend": "sentence-transformers",
+  "model_name": "all-MiniLM-L6-v2",
+  "display_name": "sentence-transformers/all-MiniLM-L6-v2",
+  "num_chunks": 206,
+  "fallback_used": false
+}

@@ -1,0 +1,366 @@
+[
+  {
+    "candidate_id": "C024",
+    "full_name": "Fatima Muller",
+    "raw_text": "Fatima Muller\nSoftware Engineer candidate\n\nExperience\nBackend Engineer, Clearwave Media (2025 - Present)\n- Led the decomposition of a monolithic codebase into independently deployable services\n- Took ownership of onboarding and mentoring new engineering hires\n- Rebuilt the checkout service in Go, cutting p95 latency by 40%\n\nBackend Engineer, Quietwork Tools (2023 - 2025)\n- Rewrote the payments backend for performance, dropping tail latency significantly\n- Developed ML-driven content ranking for the homepage feed\n- Led the decomposition of a monolithic codebase into independently deployable services\n\nSkills\nPython, Machine Learning, Pandas, scikit-learn, SQL\n\nEducation\nB.A. in Communications, State University, 2021",
+    "date_received": "2025-08-20",
+    "true_role_family": "Software Engineer"
+  },
+  {
+    "candidate_id": "C038",
+    "full_name": "Nina Johnson",
+    "raw_text": "Nina Johnson\nSales candidate\n\nExperience\nAccount Executive, Quietwork Tools (2024 - Present)\n- Beat sales targets by more than 20% for a year and a half straight\n- Generated over a million dollars in new ARR from enterprise deals\n- Owned top-of-funnel outreach strategy for small business customers\n\nSales Development Representative, Harborlight Insurance (2023 - 2025)\n- Designed the cold outreach process that fed the SMB pipeline\n- Beat sales targets by more than 20% for a year and a half straight\n- Secured a long-term agreement with a major enterprise logistics customer\n\nEnterprise Sales Manager, Pebblestone Financial (2020 - 2022)\n- Generated over a million dollars in new ARR from enterprise deals\n- Owned top-of-funnel outreach strategy for small business customers\n- Beat sales targets by more than 20% for a year and a half straight\n\nSkills\nSalesforce, Outbound Prospecting, Negotiation, Account Management, Forecasting\n\nEducation\nB.A. in Psychology, Riverbend University, 2008",
+    "date_received": "2025-06-06",
+    "true_role_family": "Sales"
+  },
+  {
+    "candidate_id": "C001",
+    "full_name": "Amara Garcia",
+    "raw_text": "Amara Garcia\nProduct Manager candidate\n\nExperience\nProduct Manager, Northstar Analytics (2025 - Present)\n- Synthesized customer feedback loops to guide the new-user activation roadmap\n- Owned the payments product area end-to-end, cutting drop-off at purchase by nearly a fifth\n- Wrote PRDs and managed a cross-functional team of 6 engineers and 2 designers\n\nSkills\nRoadmapping, Prioritization (RICE), SQL, Figma, A/B Testing, Stakeholder Management\n\nEducation\nB.A. in Communications, State University, 2015",
+    "date_received": "2025-04-23",
+    "true_role_family": "Product Manager"
+  },
+  {
+    "candidate_id": "C037",
+    "full_name": "Aisha Chen",
+    "raw_text": "Aisha Chen\nSales candidate\n\nExperience\nEnterprise Sales Manager, Basecamp Mobility (2024 - Present)\n- Negotiated and closed a multi-year contract with a Fortune 500 logistics company\n- Drove significant new recurring revenue growth through enterprise account wins\n- Delivered quota over-attainment across six straight quarters\n\nSkills\nCold Calling, SMB Sales, CRM Hygiene, Upselling\n\nEducation\nM.S. in Information Systems, State University, 2016",
+    "date_received": "2026-08-12",
+    "true_role_family": "Sales"
+  },
+  {
+    "candidate_id": "C013",
+    "full_name": "Aisha Chen",
+    "raw_text": "Aisha Chen\nProduct Manager candidate\n\nExperience\nSenior Product Manager, Meadowbrook Software (2025 - Present)\n- Acted as the single point of accountability for a multi-discipline product squad\n- Ran discovery interviews with 40+ customers to prioritize the onboarding roadmap\n- Owned the payments product area end-to-end, cutting drop-off at purchase by nearly a fifth\n\nSkills\nAgile/Scrum, Data Analysis, Competitive Analysis, PRD Writing, Pricing Strategy\n\nEducation\nB.A. in Communications, Northfield Institute of Technology, 2018",
+    "date_received": "2026-01-21",
+    "true_role_family": "Product Manager"
+  },
+  {
+    "candidate_id": "C036",
+    "full_name": "David Brown",
+    "raw_text": "David Brown\nSales candidate\n\nExperience\nEnterprise Sales Manager, Basecamp Mobility (2025 - Present)\n- Built and ran the outbound prospecting playbook for the SMB segment\n- Consistently exceeded quota by 120%+ for six consecutive quarters\n- Closed $1.2M in new annual recurring revenue across 30 enterprise accounts\n\nSales Development Representative, Nimbus Retail (2022 - 2024)\n- Delivered quota over-attainment across six straight quarters\n- Generated over a million dollars in new ARR from enterprise deals\n- Designed the cold outreach process that fed the SMB pipeline\n\nSkills\nHubSpot, Enterprise Sales, Contract Negotiation, Pipeline Management\n\nEducation\nB.A. in Psychology, Northfield Institute of Technology, 2023",
+    "date_received": "2025-07-01",
+    "true_role_family": "Sales"
+  },
+  {
+    "candidate_id": "C003",
+    "full_name": "Claire Singh",
+    "raw_text": "Claire Singh\nProduct Manager candidate\n\nExperience\nAssociate Product Manager, Vantage Commerce (2024 - Present)\n- Wrote PRDs and managed a cross-functional team of 6 engineers and 2 designers\n- Synthesized customer feedback loops to guide the new-user activation roadmap\n- Led the checkout redesign that reduced cart abandonment by 18%\n\nSkills\nAgile/Scrum, Data Analysis, Competitive Analysis, PRD Writing, Pricing Strategy\n\nEducation\nB.A. in Communications, State University, 2011",
+    "date_received": "2025-08-29",
+    "true_role_family": "Product Manager"
+  },
+  {
+    "candidate_id": "C011",
+    "full_name": "David Larsen",
+    "raw_text": "David Larsen\nProduct Manager candidate\n\nExperience\nAssociate Product Manager, Nimbus Retail (2025 - Present)\n- Owned the payments product area end-to-end, cutting drop-off at purchase by nearly a fifth\n- Partnered with UX research to talk to dozens of new users and reshape the first-week experience\n- Coordinated a squad of engineers and designers from spec to launch\n\nSkills\nProduct Strategy, User Research, JIRA, Amplitude, Cross-functional Leadership\n\nEducation\nB.S. in Business Administration, Riverbend University, 2013",
+    "date_received": "2025-08-30",
+    "true_role_family": "Product Manager"
+  },
+  {
+    "candidate_id": "C022",
+    "full_name": "David Okafor",
+    "raw_text": "David Okafor\nSoftware Engineer candidate\n\nExperience\nSoftware Engineer, Brightloop (2024 - Present)\n- Grew junior team members through regular code review and pairing\n- Migrated the purchase-flow API to a faster service architecture\n- Architected the transition off the old monolith onto microservices\n\nSoftware Engineer, Harborlight Insurance (2022 - 2024)\n- Implemented a recommendation engine using collaborative filtering in Python\n- Took ownership of onboarding and mentoring new engineering hires\n- Migrated the purchase-flow API to a faster service architecture\n\nSkills\nPython, Go, PostgreSQL, Kubernetes, AWS, REST APIs\n\nEducation\nB.S. in Economics, State University, 2015",
+    "date_received": "2026-03-26",
+    "true_role_family": "Software Engineer"
+  },
+  {
+    "candidate_id": "C051",
+    "full_name": "Lucas Okafor",
+    "raw_text": "Lucas Okafor\nData Analyst candidate\n\nExperience\nData Analyst, Clearwave Media (2025 - Present)\n- Cut hours of manual report-building by automating the weekly exec dashboard\n- Developed a predictive model to flag at-risk customers for the retention team\n- Partnered with product to define and instrument key funnel metrics\n\nData Analyst, Sunlit Foods (2023 - 2025)\n- Built a churn prediction model that improved retention team targeting by 15%\n- Set up analytics instrumentation for core product funnels\n- Replaced manual leadership reports with an automated pipeline\n\nSkills\nSQL, Python, Tableau, A/B Testing, Statistics\n\nEducation\nB.S. in Computer Science, Lakeside College, 2009",
+    "date_received": "2026-05-16",
+    "true_role_family": "Data Analyst"
+  },
+  {
+    "candidate_id": "C012",
+    "full_name": "Maria Singh",
+    "raw_text": "Maria Singh\nProduct Manager candidate\n\nExperience\nSenior Product Manager, Quietwork Tools (2024 - Present)\n- Ran discovery interviews with 40+ customers to prioritize the onboarding roadmap\n- Ran A/B tests on pricing tiers that increased conversion by 9%\n- Delivered a metrics workspace that replaced manual spreadsheet reporting for the whole org\n\nAssociate Product Manager, Pebblestone Financial (2023 - 2025)\n- Ran A/B tests on pricing tiers that increased conversion by 9%\n- Delivered a metrics workspace that replaced manual spreadsheet reporting for the whole org\n- Owned the payments product area end-to-end, cutting drop-off at purchase by nearly a fifth\n\nSkills\nProduct Strategy, User Research, JIRA, Amplitude, Cross-functional Leadership\n\nEducation\nB.A. in Psychology, State University, 2010",
+    "date_received": "2026-03-16",
+    "true_role_family": "Product Manager"
+  },
+  {
+    "candidate_id": "C043",
+    "full_name": "Omar Lopez",
+    "raw_text": "Omar Lopez\nProduct Designer candidate\n\nExperience\nProduct Designer, Nimbus Retail (2024 - Present)\n- Redesigned the checkout UI, improving task completion in usability tests by 25%\n- Led moderated research rounds to validate designs before shipping\n- Standardized reusable design components adopted org-wide\n\nProduct Designer, Vantage Commerce (2022 - 2024)\n- Redesigned the checkout UI, improving task completion in usability tests by 25%\n- Owned the shared UI component library used across product teams\n- Ran moderated usability studies with 15 participants per release cycle\n\nUX Designer, Harborlight Insurance (2020 - 2022)\n- Built and maintained the company's design system component library in Figma\n- Led moderated research rounds to validate designs before shipping\n- Overhauled the purchase-flow interface, raising usability test success rates\n\nSkills\nFigma, Design Systems, Usability Testing, Prototyping, Accessibility (WCAG)\n\nEducation\nB.A. in Communications, Lakeside College, 2010",
+    "date_received": "2025-08-27",
+    "true_role_family": "Product Designer"
+  },
+  {
+    "candidate_id": "C030",
+    "full_name": "Elena Rossi",
+    "raw_text": "Elena Rossi\nCustomer Support candidate\n\nExperience\nSupport Team Lead, Northstar Analytics (2025 - Present)\n- Flagged a systemic billing issue to engineering that headed off a wave of complaints\n- Trained 8 new support hires on the ticketing system and escalation process\n- Authored self-serve documentation that cut down repetitive support volume\n\nSkills\nSalesforce Service Cloud, Live Chat, Escalation Handling, Knowledge Base Writing\n\nEducation\nB.S. in Economics, Lakeside College, 2014",
+    "date_received": "2025-09-24",
+    "true_role_family": "Customer Support"
+  },
+  {
+    "candidate_id": "C016",
+    "full_name": "Chidi Muller",
+    "raw_text": "Chidi Muller\nSoftware Engineer candidate\n\nExperience\nSenior Software Engineer, Brightloop (2025 - Present)\n- Automated the release process, shrinking deployment time by nearly 90%\n- Architected the transition off the old monolith onto microservices\n- Took ownership of onboarding and mentoring new engineering hires\n\nSkills\nPython, Machine Learning, Pandas, scikit-learn, SQL\n\nEducation\nB.S. in Business Administration, Maple City College, 2011",
+    "date_received": "2026-07-07",
+    "true_role_family": "Software Engineer"
+  },
+  {
+    "candidate_id": "C041",
+    "full_name": "Diego Larsen",
+    "raw_text": "Diego Larsen\nProduct Designer candidate\n\nExperience\nSenior Product Designer, Ironbridge Robotics (2024 - Present)\n- Standardized reusable design components adopted org-wide\n- Ran moderated usability studies with 15 participants per release cycle\n- Simplified the buy-flow screens after multiple rounds of user testing\n\nUX Designer, Aurora Systems (2023 - 2025)\n- Standardized reusable design components adopted org-wide\n- Overhauled the purchase-flow interface, raising usability test success rates\n- Led moderated research rounds to validate designs before shipping\n\nUX Designer, Northstar Analytics (2020 - 2022)\n- Ran moderated usability studies with 15 participants per release cycle\n- Redesigned the checkout UI, improving task completion in usability tests by 25%\n- Standardized reusable design components adopted org-wide\n\nSkills\nSketch, User Research, Interaction Design, Wireframing\n\nEducation\nB.S. in Economics, State University, 2011",
+    "date_received": "2025-04-02",
+    "true_role_family": "Product Designer"
+  },
+  {
+    "candidate_id": "C046",
+    "full_name": "Jack Kim",
+    "raw_text": "Jack Kim\nProduct Designer candidate\n\nExperience\nUX Designer, Nimbus Retail (2024 - Present)\n- Redesigned the checkout UI, improving task completion in usability tests by 25%\n- Owned the shared UI component library used across product teams\n- Conducted regular in-depth user testing sessions ahead of each release\n\nSkills\nSketch, User Research, Interaction Design, Wireframing\n\nEducation\nB.A. in Communications, Lakeside College, 2012",
+    "date_received": "2025-09-13",
+    "true_role_family": "Product Designer"
+  },
+  {
+    "candidate_id": "C008",
+    "full_name": "Nina Larsen",
+    "raw_text": "Nina Larsen\nProduct Manager candidate\n\nExperience\nSenior Product Manager, Pebblestone Financial (2025 - Present)\n- Shipped a self-serve analytics dashboard used by 200+ internal stakeholders\n- Acted as the single point of accountability for a multi-discipline product squad\n- Built the measurement framework growth leadership used to judge experiment success\n\nAssociate Product Manager, Clearwave Media (2023 - 2025)\n- Used controlled experiments to validate a new pricing model before company-wide rollout\n- Delivered a metrics workspace that replaced manual spreadsheet reporting for the whole org\n- Owned the growth team's KPI framework and reported results to the executive staff\n\nSkills\nOKRs, Customer Discovery, Mixpanel, SQL, Go-to-Market Planning\n\nEducation\nB.S. in Economics, Maple City College, 2011",
+    "date_received": "2026-01-12",
+    "true_role_family": "Product Manager"
+  },
+  {
+    "candidate_id": "C049",
+    "full_name": "Carlos Smith",
+    "raw_text": "Carlos Smith\nData Analyst candidate\n\nExperience\nBusiness Intelligence Analyst, Vantage Commerce (2025 - Present)\n- Developed a predictive model to flag at-risk customers for the retention team\n- Worked closely with the PM team to define event tracking for the funnel\n- Replaced manual leadership reports with an automated pipeline\n\nSkills\nR, dbt, Looker, Experimentation, Data Modeling\n\nEducation\nM.S. in Information Systems, Maple City College, 2012",
+    "date_received": "2025-07-25",
+    "true_role_family": "Data Analyst"
+  },
+  {
+    "candidate_id": "C047",
+    "full_name": "Ethan Haddad",
+    "raw_text": "Ethan Haddad\nData Analyst candidate\n\nExperience\nBusiness Intelligence Analyst, Aurora Systems (2024 - Present)\n- Worked closely with the PM team to define event tracking for the funnel\n- Automated weekly executive reporting, saving the team ~10 hours per week\n- Built a churn prediction model that improved retention team targeting by 15%\n\nData Analyst, Pebblestone Financial (2022 - 2024)\n- Worked closely with the PM team to define event tracking for the funnel\n- Automated weekly executive reporting, saving the team ~10 hours per week\n- Developed a predictive model to flag at-risk customers for the retention team\n\nSkills\nSQL, Python, Tableau, A/B Testing, Statistics\n\nEducation\nB.S. in Computer Science, Riverbend University, 2016",
+    "date_received": "2025-08-28",
+    "true_role_family": "Data Analyst"
+  },
+  {
+    "candidate_id": "C045",
+    "full_name": "Layla Tanaka",
+    "raw_text": "Layla Tanaka\nProduct Designer candidate\n\nExperience\nUX Designer, Sunlit Foods (2025 - Present)\n- Conducted regular in-depth user testing sessions ahead of each release\n- Redesigned the checkout UI, improving task completion in usability tests by 25%\n- Standardized reusable design components adopted org-wide\n\nSkills\nSketch, User Research, Interaction Design, Wireframing\n\nEducation\nM.S. in Information Systems, Lakeside College, 2014",
+    "date_received": "2026-01-09",
+    "true_role_family": "Product Designer"
+  },
+  {
+    "candidate_id": "C035",
+    "full_name": "Nina Okafor",
+    "raw_text": "Nina Okafor\nSales candidate\n\nExperience\nAccount Executive, Northstar Analytics (2025 - Present)\n- Built and ran the outbound prospecting playbook for the SMB segment\n- Closed $1.2M in new annual recurring revenue across 30 enterprise accounts\n- Secured a long-term agreement with a major enterprise logistics customer\n\nSales Development Representative, Clearwave Media (2022 - 2024)\n- Secured a long-term agreement with a major enterprise logistics customer\n- Drove significant new recurring revenue growth through enterprise account wins\n- Beat sales targets by more than 20% for a year and a half straight\n\nSkills\nCold Calling, SMB Sales, CRM Hygiene, Upselling\n\nEducation\nB.S. in Business Administration, Riverbend University, 2015",
+    "date_received": "2025-12-26",
+    "true_role_family": "Sales"
+  },
+  {
+    "candidate_id": "C033",
+    "full_name": "Tom Silva",
+    "raw_text": "Tom Silva\nSales candidate\n\nExperience\nAccount Executive, Vantage Commerce (2024 - Present)\n- Owned top-of-funnel outreach strategy for small business customers\n- Consistently exceeded quota by 120%+ for six consecutive quarters\n- Drove significant new recurring revenue growth through enterprise account wins\n\nEnterprise Sales Manager, Nimbus Retail (2023 - 2025)\n- Landed a large multi-year deal with a top-tier logistics client\n- Generated over a million dollars in new ARR from enterprise deals\n- Delivered quota over-attainment across six straight quarters\n\nSkills\nSalesforce, Outbound Prospecting, Negotiation, Account Management, Forecasting\n\nEducation\nB.S. in Economics, Union Polytechnic, 2011",
+    "date_received": "2026-09-10",
+    "true_role_family": "Sales"
+  },
+  {
+    "candidate_id": "C034",
+    "full_name": "Lucas Tanaka",
+    "raw_text": "Lucas Tanaka\nSales candidate\n\nExperience\nAccount Executive, Harborlight Insurance (2025 - Present)\n- Negotiated and closed a multi-year contract with a Fortune 500 logistics company\n- Owned top-of-funnel outreach strategy for small business customers\n- Generated over a million dollars in new ARR from enterprise deals\n\nAccount Executive, Meadowbrook Software (2023 - 2025)\n- Built and ran the outbound prospecting playbook for the SMB segment\n- Closed $1.2M in new annual recurring revenue across 30 enterprise accounts\n- Consistently exceeded quota by 120%+ for six consecutive quarters\n\nEnterprise Sales Manager, Aurora Systems (2020 - 2022)\n- Owned top-of-funnel outreach strategy for small business customers\n- Secured a long-term agreement with a major enterprise logistics customer\n- Beat sales targets by more than 20% for a year and a half straight\n\nSkills\nCold Calling, SMB Sales, CRM Hygiene, Upselling\n\nEducation\nB.S. in Computer Science, Riverbend University, 2009",
+    "date_received": "2026-06-13",
+    "true_role_family": "Sales"
+  },
+  {
+    "candidate_id": "C027",
+    "full_name": "Hana Nguyen",
+    "raw_text": "Hana Nguyen\nCustomer Support candidate\n\nExperience\nCustomer Support Specialist, Ironbridge Robotics (2025 - Present)\n- Resolved 60+ customer tickets daily with a 96% satisfaction score\n- Identified a recurring billing bug and escalated it to engineering, preventing 500+ future tickets\n- Led new-hire training sessions for the support team's tooling and workflow\n\nSkills\nZendesk, Intercom, Customer Empathy, Conflict Resolution, SLA Management\n\nEducation\nB.A. in Communications, Lakeside College, 2023",
+    "date_received": "2026-05-28",
+    "true_role_family": "Customer Support"
+  },
+  {
+    "candidate_id": "C023",
+    "full_name": "David Haddad",
+    "raw_text": "David Haddad\nSoftware Engineer candidate\n\nExperience\nSoftware Engineer, Nimbus Retail (2024 - Present)\n- Architected the transition off the old monolith onto microservices\n- Developed ML-driven content ranking for the homepage feed\n- Set up continuous delivery tooling that made releases fast and routine\n\nSenior Software Engineer, Northstar Analytics (2022 - 2024)\n- Grew junior team members through regular code review and pairing\n- Implemented a recommendation engine using collaborative filtering in Python\n- Set up continuous delivery tooling that made releases fast and routine\n\nSenior Software Engineer, Cobalt Health (2020 - 2022)\n- Automated the release process, shrinking deployment time by nearly 90%\n- Architected the transition off the old monolith onto microservices\n- Grew junior team members through regular code review and pairing\n\nSkills\nJavaScript, React, Node.js, Docker, CI/CD, GraphQL\n\nEducation\nB.S. in Economics, Northfield Institute of Technology, 2010",
+    "date_received": "2025-12-04",
+    "true_role_family": "Software Engineer"
+  },
+  {
+    "candidate_id": "C048",
+    "full_name": "Chidi Anderson",
+    "raw_text": "Chidi Anderson\nData Analyst candidate\n\nExperience\nBusiness Intelligence Analyst, Meadowbrook Software (2025 - Present)\n- Set up analytics instrumentation for core product funnels\n- Automated weekly executive reporting, saving the team ~10 hours per week\n- Created a machine learning model that improved how retention efforts were targeted\n\nSkills\nR, dbt, Looker, Experimentation, Data Modeling\n\nEducation\nB.S. in Computer Science, Union Polytechnic, 2021",
+    "date_received": "2026-05-26",
+    "true_role_family": "Data Analyst"
+  },
+  {
+    "candidate_id": "C050",
+    "full_name": "Amara Garcia",
+    "raw_text": "Amara Garcia\nData Analyst candidate\n\nExperience\nAnalytics Associate, Basecamp Mobility (2024 - Present)\n- Built a churn prediction model that improved retention team targeting by 15%\n- Replaced manual leadership reports with an automated pipeline\n- Partnered with product to define and instrument key funnel metrics\n\nAnalytics Associate, Pebblestone Financial (2022 - 2024)\n- Worked closely with the PM team to define event tracking for the funnel\n- Replaced manual leadership reports with an automated pipeline\n- Built a churn prediction model that improved retention team targeting by 15%\n\nData Analyst, Brightloop (2020 - 2022)\n- Built a churn prediction model that improved retention team targeting by 15%\n- Worked closely with the PM team to define event tracking for the funnel\n- Automated weekly executive reporting, saving the team ~10 hours per week\n\nSkills\nSQL, Python, Tableau, A/B Testing, Statistics\n\nEducation\nB.A. in Communications, Maple City College, 2010",
+    "date_received": "2026-02-22",
+    "true_role_family": "Data Analyst"
+  },
+  {
+    "candidate_id": "C014",
+    "full_name": "Liam Singh",
+    "raw_text": "Liam Singh\nProduct Manager candidate\n\nExperience\nSenior Product Manager, Vantage Commerce (2025 - Present)\n- Led the checkout redesign that reduced cart abandonment by 18%\n- Built the measurement framework growth leadership used to judge experiment success\n- Ran A/B tests on pricing tiers that increased conversion by 9%\n\nAssociate Product Manager, Meadowbrook Software (2022 - 2024)\n- Ran discovery interviews with 40+ customers to prioritize the onboarding roadmap\n- Launched an internal reporting tool adopted company-wide by ops and finance teams\n- Owned the payments product area end-to-end, cutting drop-off at purchase by nearly a fifth\n\nSkills\nProduct Strategy, User Research, JIRA, Amplitude, Cross-functional Leadership\n\nEducation\nB.A. in Psychology, Riverbend University, 2017",
+    "date_received": "2025-03-30",
+    "true_role_family": "Product Manager"
+  },
+  {
+    "candidate_id": "C020",
+    "full_name": "Ravi Brown",
+    "raw_text": "Ravi Brown\nSoftware Engineer candidate\n\nExperience\nBackend Engineer, Northstar Analytics (2024 - Present)\n- Rewrote the payments backend for performance, dropping tail latency significantly\n- Designed and shipped a microservices migration from a legacy monolith\n- Developed ML-driven content ranking for the homepage feed\n\nSenior Software Engineer, Brightloop (2022 - 2024)\n- Rewrote the payments backend for performance, dropping tail latency significantly\n- Set up continuous delivery tooling that made releases fast and routine\n- Built a Python-based recommender system to personalize the product feed\n\nSkills\nJava, Spring Boot, Microservices, Kafka, System Design\n\nEducation\nM.S. in Information Systems, Riverbend University, 2017",
+    "date_received": "2026-05-15",
+    "true_role_family": "Software Engineer"
+  },
+  {
+    "candidate_id": "C017",
+    "full_name": "Ravi Kim",
+    "raw_text": "Ravi Kim\nSoftware Engineer candidate\n\nExperience\nBackend Engineer, Ironbridge Robotics (2025 - Present)\n- Built a Python-based recommender system to personalize the product feed\n- Led the decomposition of a monolithic codebase into independently deployable services\n- Rebuilt the checkout service in Go, cutting p95 latency by 40%\n\nSkills\nJava, Spring Boot, Microservices, Kafka, System Design\n\nEducation\nM.S. in Information Systems, Lakeside College, 2015",
+    "date_received": "2026-06-09",
+    "true_role_family": "Software Engineer"
+  },
+  {
+    "candidate_id": "C015",
+    "full_name": "Maria Larsen",
+    "raw_text": "Maria Larsen\nSoftware Engineer candidate\n\nExperience\nSoftware Engineer, Cobalt Health (2024 - Present)\n- Migrated the purchase-flow API to a faster service architecture\n- Mentored 3 junior engineers and led weekly code reviews\n- Automated the release process, shrinking deployment time by nearly 90%\n\nSenior Software Engineer, Quietwork Tools (2023 - 2025)\n- Set up continuous delivery tooling that made releases fast and routine\n- Led the decomposition of a monolithic codebase into independently deployable services\n- Took ownership of onboarding and mentoring new engineering hires\n\nSkills\nPython, Machine Learning, Pandas, scikit-learn, SQL\n\nEducation\nB.S. in Business Administration, Northfield Institute of Technology, 2010",
+    "date_received": "2025-07-16",
+    "true_role_family": "Software Engineer"
+  },
+  {
+    "candidate_id": "C019",
+    "full_name": "Liam Patel",
+    "raw_text": "Liam Patel\nSoftware Engineer candidate\n\nExperience\nBackend Engineer, Ironbridge Robotics (2024 - Present)\n- Mentored 3 junior engineers and led weekly code reviews\n- Automated the release process, shrinking deployment time by nearly 90%\n- Rebuilt the checkout service in Go, cutting p95 latency by 40%\n\nBackend Engineer, Clearwave Media (2022 - 2024)\n- Rewrote the payments backend for performance, dropping tail latency significantly\n- Grew junior team members through regular code review and pairing\n- Set up continuous delivery tooling that made releases fast and routine\n\nSkills\nJava, Spring Boot, Microservices, Kafka, System Design\n\nEducation\nB.A. in Psychology, Riverbend University, 2011",
+    "date_received": "2025-08-24",
+    "true_role_family": "Software Engineer"
+  },
+  {
+    "candidate_id": "C025",
+    "full_name": "Ravi Brown",
+    "raw_text": "Ravi Brown\nCustomer Support candidate\n\nExperience\nSupport Team Lead, Sunlit Foods (2025 - Present)\n- Onboarded new customer support staff onto tools and escalation paths\n- Built out the customer-facing FAQ library to deflect common questions\n- Caught a pattern in payment-related complaints and routed it to the right engineering team\n\nSkills\nFreshdesk, Ticket Triage, Onboarding, Process Documentation\n\nEducation\nB.A. in Psychology, Maple City College, 2015",
+    "date_received": "2025-05-11",
+    "true_role_family": "Customer Support"
+  },
+  {
+    "candidate_id": "C040",
+    "full_name": "Fatima Garcia",
+    "raw_text": "Fatima Garcia\nSales candidate\n\nExperience\nAccount Executive, Cobalt Health (2024 - Present)\n- Secured a long-term agreement with a major enterprise logistics customer\n- Beat sales targets by more than 20% for a year and a half straight\n- Owned top-of-funnel outreach strategy for small business customers\n\nAccount Executive, Clearwave Media (2022 - 2024)\n- Designed the cold outreach process that fed the SMB pipeline\n- Delivered quota over-attainment across six straight quarters\n- Drove significant new recurring revenue growth through enterprise account wins\n\nAccount Executive, Basecamp Mobility (2021 - 2023)\n- Landed a large multi-year deal with a top-tier logistics client\n- Owned top-of-funnel outreach strategy for small business customers\n- Consistently exceeded quota by 120%+ for six consecutive quarters\n\nSkills\nHubSpot, Enterprise Sales, Contract Negotiation, Pipeline Management\n\nEducation\nB.S. in Computer Science, Union Polytechnic, 2023",
+    "date_received": "2026-04-23",
+    "true_role_family": "Sales"
+  },
+  {
+    "candidate_id": "C018",
+    "full_name": "Yuki Larsen",
+    "raw_text": "Yuki Larsen\nSoftware Engineer candidate\n\nExperience\nSoftware Engineer, Pebblestone Financial (2025 - Present)\n- Developed ML-driven content ranking for the homepage feed\n- Rewrote the payments backend for performance, dropping tail latency significantly\n- Grew junior team members through regular code review and pairing\n\nBackend Engineer, Quietwork Tools (2023 - 2025)\n- Built CI/CD pipelines that cut deploy time from 45 minutes to 6\n- Led the decomposition of a monolithic codebase into independently deployable services\n- Mentored 3 junior engineers and led weekly code reviews\n\nSenior Software Engineer, Cobalt Health (2021 - 2023)\n- Led the decomposition of a monolithic codebase into independently deployable services\n- Implemented a recommendation engine using collaborative filtering in Python\n- Mentored 3 junior engineers and led weekly code reviews\n\nSkills\nPython, Go, PostgreSQL, Kubernetes, AWS, REST APIs\n\nEducation\nB.A. in Communications, Union Polytechnic, 2020",
+    "date_received": "2025-10-21",
+    "true_role_family": "Software Engineer"
+  },
+  {
+    "candidate_id": "C009",
+    "full_name": "Fatima Patel",
+    "raw_text": "Fatima Patel\nProduct Manager candidate\n\nExperience\nAssociate Product Manager, Brightloop (2025 - Present)\n- Wrote PRDs and managed a cross-functional team of 6 engineers and 2 designers\n- Synthesized customer feedback loops to guide the new-user activation roadmap\n- Drove a full overhaul of the online purchase flow, improving completion rates across mobile and web\n\nProduct Manager, Vantage Commerce (2023 - 2025)\n- Led the checkout redesign that reduced cart abandonment by 18%\n- Used controlled experiments to validate a new pricing model before company-wide rollout\n- Shipped a self-serve analytics dashboard used by 200+ internal stakeholders\n\nSkills\nAgile/Scrum, Data Analysis, Competitive Analysis, PRD Writing, Pricing Strategy\n\nEducation\nB.S. in Economics, Union Polytechnic, 2014",
+    "date_received": "2026-05-10",
+    "true_role_family": "Product Manager"
+  },
+  {
+    "candidate_id": "C052",
+    "full_name": "Sam Dubois",
+    "raw_text": "Sam Dubois\nData Analyst candidate\n\nExperience\nBusiness Intelligence Analyst, Fernway Labs (2024 - Present)\n- Cut hours of manual report-building by automating the weekly exec dashboard\n- Built a churn prediction model that improved retention team targeting by 15%\n- Set up analytics instrumentation for core product funnels\n\nSkills\nSQL, Python, Tableau, A/B Testing, Statistics\n\nEducation\nM.S. in Information Systems, Union Polytechnic, 2017",
+    "date_received": "2025-06-10",
+    "true_role_family": "Data Analyst"
+  },
+  {
+    "candidate_id": "C010",
+    "full_name": "Sam Brown",
+    "raw_text": "Sam Brown\nProduct Manager candidate\n\nExperience\nSenior Product Manager, Meadowbrook Software (2025 - Present)\n- Owned the payments product area end-to-end, cutting drop-off at purchase by nearly a fifth\n- Experimented with subscription pricing structures, lifting sign-up conversion meaningfully\n- Owned the growth team's KPI framework and reported results to the executive staff\n\nSenior Product Manager, Sunlit Foods (2023 - 2025)\n- Experimented with subscription pricing structures, lifting sign-up conversion meaningfully\n- Drove a full overhaul of the online purchase flow, improving completion rates across mobile and web\n- Coordinated a squad of engineers and designers from spec to launch\n\nProduct Manager, Harborlight Insurance (2021 - 2023)\n- Ran discovery interviews with 40+ customers to prioritize the onboarding roadmap\n- Experimented with subscription pricing structures, lifting sign-up conversion meaningfully\n- Defined and tracked north-star metrics for the growth team, presenting weekly to leadership\n\nSkills\nAgile/Scrum, Data Analysis, Competitive Analysis, PRD Writing, Pricing Strategy\n\nEducation\nB.A. in Communications, Riverbend University, 2010",
+    "date_received": "2025-06-26",
+    "true_role_family": "Product Manager"
+  },
+  {
+    "candidate_id": "C039",
+    "full_name": "Grace Smith",
+    "raw_text": "Grace Smith\nSales candidate\n\nExperience\nSales Development Representative, Ironbridge Robotics (2024 - Present)\n- Drove significant new recurring revenue growth through enterprise account wins\n- Consistently exceeded quota by 120%+ for six consecutive quarters\n- Owned top-of-funnel outreach strategy for small business customers\n\nSales Development Representative, Vantage Commerce (2022 - 2024)\n- Drove significant new recurring revenue growth through enterprise account wins\n- Consistently exceeded quota by 120%+ for six consecutive quarters\n- Secured a long-term agreement with a major enterprise logistics customer\n\nSkills\nCold Calling, SMB Sales, CRM Hygiene, Upselling\n\nEducation\nB.A. in Psychology, State University, 2021",
+    "date_received": "2026-06-19",
+    "true_role_family": "Sales"
+  },
+  {
+    "candidate_id": "C021",
+    "full_name": "Tom Dubois",
+    "raw_text": "Tom Dubois\nSoftware Engineer candidate\n\nExperience\nSenior Software Engineer, Aurora Systems (2024 - Present)\n- Grew junior team members through regular code review and pairing\n- Rebuilt the checkout service in Go, cutting p95 latency by 40%\n- Led the decomposition of a monolithic codebase into independently deployable services\n\nBackend Engineer, Vantage Commerce (2022 - 2024)\n- Developed ML-driven content ranking for the homepage feed\n- Mentored 3 junior engineers and led weekly code reviews\n- Architected the transition off the old monolith onto microservices\n\nSenior Software Engineer, Quietwork Tools (2021 - 2023)\n- Migrated the purchase-flow API to a faster service architecture\n- Set up continuous delivery tooling that made releases fast and routine\n- Developed ML-driven content ranking for the homepage feed\n\nSkills\nJava, Spring Boot, Microservices, Kafka, System Design\n\nEducation\nB.A. in Communications, State University, 2017",
+    "date_received": "2026-02-04",
+    "true_role_family": "Software Engineer"
+  },
+  {
+    "candidate_id": "C006",
+    "full_name": "Yuki Rossi",
+    "raw_text": "Yuki Rossi\nProduct Manager candidate\n\nExperience\nProduct Manager, Harborlight Insurance (2025 - Present)\n- Synthesized customer feedback loops to guide the new-user activation roadmap\n- Ran A/B tests on pricing tiers that increased conversion by 9%\n- Owned the growth team's KPI framework and reported results to the executive staff\n\nSenior Product Manager, Nimbus Retail (2022 - 2024)\n- Acted as the single point of accountability for a multi-discipline product squad\n- Delivered a metrics workspace that replaced manual spreadsheet reporting for the whole org\n- Led the checkout redesign that reduced cart abandonment by 18%\n\nSkills\nAgile/Scrum, Data Analysis, Competitive Analysis, PRD Writing, Pricing Strategy\n\nEducation\nB.S. in Computer Science, Union Polytechnic, 2011",
+    "date_received": "2025-11-26",
+    "true_role_family": "Product Manager"
+  },
+  {
+    "candidate_id": "C005",
+    "full_name": "Chidi Smith",
+    "raw_text": "Chidi Smith\nProduct Manager candidate\n\nExperience\nProduct Manager, Sunlit Foods (2025 - Present)\n- Acted as the single point of accountability for a multi-discipline product squad\n- Launched an internal reporting tool adopted company-wide by ops and finance teams\n- Partnered with UX research to talk to dozens of new users and reshape the first-week experience\n\nAssociate Product Manager, Pebblestone Financial (2022 - 2024)\n- Ran discovery interviews with 40+ customers to prioritize the onboarding roadmap\n- Delivered a metrics workspace that replaced manual spreadsheet reporting for the whole org\n- Used controlled experiments to validate a new pricing model before company-wide rollout\n\nSkills\nAgile/Scrum, Data Analysis, Competitive Analysis, PRD Writing, Pricing Strategy\n\nEducation\nB.A. in Psychology, Union Polytechnic, 2021",
+    "date_received": "2025-08-10",
+    "true_role_family": "Product Manager"
+  },
+  {
+    "candidate_id": "C029",
+    "full_name": "Aisha Haddad",
+    "raw_text": "Aisha Haddad\nCustomer Support candidate\n\nExperience\nSupport Team Lead, Brightloop (2024 - Present)\n- Maintained top-tier satisfaction ratings across a heavy daily ticket load\n- Authored self-serve documentation that cut down repetitive support volume\n- Led new-hire training sessions for the support team's tooling and workflow\n\nCustomer Support Specialist, Basecamp Mobility (2022 - 2024)\n- Built out the customer-facing FAQ library to deflect common questions\n- Led new-hire training sessions for the support team's tooling and workflow\n- Flagged a systemic billing issue to engineering that headed off a wave of complaints\n\nSkills\nSalesforce Service Cloud, Live Chat, Escalation Handling, Knowledge Base Writing\n\nEducation\nM.S. in Information Systems, Riverbend University, 2016",
+    "date_received": "2025-10-27",
+    "true_role_family": "Customer Support"
+  },
+  {
+    "candidate_id": "C032",
+    "full_name": "Omar Rossi",
+    "raw_text": "Omar Rossi\nCustomer Support candidate\n\nExperience\nCustomer Success Associate, Ironbridge Robotics (2024 - Present)\n- Flagged a systemic billing issue to engineering that headed off a wave of complaints\n- Led new-hire training sessions for the support team's tooling and workflow\n- Authored self-serve documentation that cut down repetitive support volume\n\nSupport Team Lead, Meadowbrook Software (2022 - 2024)\n- Led new-hire training sessions for the support team's tooling and workflow\n- Resolved 60+ customer tickets daily with a 96% satisfaction score\n- Flagged a systemic billing issue to engineering that headed off a wave of complaints\n\nSkills\nZendesk, Intercom, Customer Empathy, Conflict Resolution, SLA Management\n\nEducation\nB.A. in Psychology, Union Polytechnic, 2013",
+    "date_received": "2026-03-10",
+    "true_role_family": "Customer Support"
+  },
+  {
+    "candidate_id": "C007",
+    "full_name": "Grace Johnson",
+    "raw_text": "Grace Johnson\nProduct Manager candidate\n\nExperience\nSenior Product Manager, Brightloop (2025 - Present)\n- Acted as the single point of accountability for a multi-discipline product squad\n- Drove a full overhaul of the online purchase flow, improving completion rates across mobile and web\n- Delivered a metrics workspace that replaced manual spreadsheet reporting for the whole org\n\nProduct Manager, Ironbridge Robotics (2023 - 2025)\n- Delivered a metrics workspace that replaced manual spreadsheet reporting for the whole org\n- Partnered with UX research to talk to dozens of new users and reshape the first-week experience\n- Owned the payments product area end-to-end, cutting drop-off at purchase by nearly a fifth\n\nProduct Manager, Quietwork Tools (2021 - 2023)\n- Shipped a self-serve analytics dashboard used by 200+ internal stakeholders\n- Ran A/B tests on pricing tiers that increased conversion by 9%\n- Synthesized customer feedback loops to guide the new-user activation roadmap\n\nSkills\nRoadmapping, Prioritization (RICE), SQL, Figma, A/B Testing, Stakeholder Management\n\nEducation\nM.S. in Information Systems, State University, 2023",
+    "date_received": "2026-07-14",
+    "true_role_family": "Product Manager"
+  },
+  {
+    "candidate_id": "C044",
+    "full_name": "Mei Rossi",
+    "raw_text": "Mei Rossi\nProduct Designer candidate\n\nExperience\nSenior Product Designer, Pebblestone Financial (2024 - Present)\n- Owned the shared UI component library used across product teams\n- Conducted regular in-depth user testing sessions ahead of each release\n- Simplified the buy-flow screens after multiple rounds of user testing\n\nSenior Product Designer, Cobalt Health (2023 - 2025)\n- Simplified the buy-flow screens after multiple rounds of user testing\n- Owned the shared UI component library used across product teams\n- Led moderated research rounds to validate designs before shipping\n\nUX Designer, Meadowbrook Software (2020 - 2022)\n- Owned the shared UI component library used across product teams\n- Conducted regular in-depth user testing sessions ahead of each release\n- Redesigned the checkout UI, improving task completion in usability tests by 25%\n\nSkills\nFigma, Design Systems, Usability Testing, Prototyping, Accessibility (WCAG)\n\nEducation\nB.A. in Psychology, Riverbend University, 2019",
+    "date_received": "2025-11-24",
+    "true_role_family": "Product Designer"
+  },
+  {
+    "candidate_id": "C028",
+    "full_name": "Lucas Okafor",
+    "raw_text": "Lucas Okafor\nCustomer Support candidate\n\nExperience\nCustomer Support Specialist, Northstar Analytics (2025 - Present)\n- Built out the customer-facing FAQ library to deflect common questions\n- Identified a recurring billing bug and escalated it to engineering, preventing 500+ future tickets\n- Handled a high volume of daily support requests while keeping CSAT above 95%\n\nCustomer Success Associate, Sunlit Foods (2022 - 2024)\n- Identified a recurring billing bug and escalated it to engineering, preventing 500+ future tickets\n- Led new-hire training sessions for the support team's tooling and workflow\n- Maintained top-tier satisfaction ratings across a heavy daily ticket load\n\nCustomer Success Associate, Aurora Systems (2021 - 2023)\n- Maintained top-tier satisfaction ratings across a heavy daily ticket load\n- Led new-hire training sessions for the support team's tooling and workflow\n- Wrote and maintained the help center knowledge base, reducing repeat tickets by 20%\n\nSkills\nFreshdesk, Ticket Triage, Onboarding, Process Documentation\n\nEducation\nB.S. in Computer Science, State University, 2021",
+    "date_received": "2025-09-08",
+    "true_role_family": "Customer Support"
+  },
+  {
+    "candidate_id": "C026",
+    "full_name": "Fatima Muller",
+    "raw_text": "Fatima Muller\nCustomer Support candidate\n\nExperience\nSupport Team Lead, Harborlight Insurance (2024 - Present)\n- Built out the customer-facing FAQ library to deflect common questions\n- Caught a pattern in payment-related complaints and routed it to the right engineering team\n- Resolved 60+ customer tickets daily with a 96% satisfaction score\n\nSupport Team Lead, Brightloop (2023 - 2025)\n- Resolved 60+ customer tickets daily with a 96% satisfaction score\n- Onboarded new customer support staff onto tools and escalation paths\n- Wrote and maintained the help center knowledge base, reducing repeat tickets by 20%\n\nCustomer Support Specialist, GreenPath Logistics (2020 - 2022)\n- Flagged a systemic billing issue to engineering that headed off a wave of complaints\n- Authored self-serve documentation that cut down repetitive support volume\n- Handled a high volume of daily support requests while keeping CSAT above 95%\n\nSkills\nSalesforce Service Cloud, Live Chat, Escalation Handling, Knowledge Base Writing\n\nEducation\nB.S. in Economics, Northfield Institute of Technology, 2016",
+    "date_received": "2026-07-01",
+    "true_role_family": "Customer Support"
+  },
+  {
+    "candidate_id": "C031",
+    "full_name": "David Muller",
+    "raw_text": "David Muller\nCustomer Support candidate\n\nExperience\nCustomer Success Associate, Northstar Analytics (2024 - Present)\n- Resolved 60+ customer tickets daily with a 96% satisfaction score\n- Trained 8 new support hires on the ticketing system and escalation process\n- Caught a pattern in payment-related complaints and routed it to the right engineering team\n\nSupport Team Lead, Quietwork Tools (2022 - 2024)\n- Built out the customer-facing FAQ library to deflect common questions\n- Led new-hire training sessions for the support team's tooling and workflow\n- Flagged a systemic billing issue to engineering that headed off a wave of complaints\n\nSkills\nSalesforce Service Cloud, Live Chat, Escalation Handling, Knowledge Base Writing\n\nEducation\nB.S. in Business Administration, State University, 2017",
+    "date_received": "2026-02-08",
+    "true_role_family": "Customer Support"
+  },
+  {
+    "candidate_id": "C004",
+    "full_name": "Liam Kowalski",
+    "raw_text": "Liam Kowalski\nProduct Manager candidate\n\nExperience\nSenior Product Manager, Aurora Systems (2025 - Present)\n- Used controlled experiments to validate a new pricing model before company-wide rollout\n- Delivered a metrics workspace that replaced manual spreadsheet reporting for the whole org\n- Led the checkout redesign that reduced cart abandonment by 18%\n\nAssociate Product Manager, Harborlight Insurance (2023 - 2025)\n- Partnered with UX research to talk to dozens of new users and reshape the first-week experience\n- Built the measurement framework growth leadership used to judge experiment success\n- Acted as the single point of accountability for a multi-discipline product squad\n\nSkills\nProduct Strategy, User Research, JIRA, Amplitude, Cross-functional Leadership\n\nEducation\nB.S. in Computer Science, Union Polytechnic, 2009",
+    "date_received": "2026-01-31",
+    "true_role_family": "Product Manager"
+  },
+  {
+    "candidate_id": "C002",
+    "full_name": "Mei Nguyen",
+    "raw_text": "Mei Nguyen\nProduct Manager candidate\n\nExperience\nSenior Product Manager, Basecamp Mobility (2024 - Present)\n- Owned the payments product area end-to-end, cutting drop-off at purchase by nearly a fifth\n- Partnered with UX research to talk to dozens of new users and reshape the first-week experience\n- Defined and tracked north-star metrics for the growth team, presenting weekly to leadership\n\nProduct Manager, Cobalt Health (2022 - 2024)\n- Led the checkout redesign that reduced cart abandonment by 18%\n- Experimented with subscription pricing structures, lifting sign-up conversion meaningfully\n- Owned the growth team's KPI framework and reported results to the executive staff\n\nSkills\nAgile/Scrum, Data Analysis, Competitive Analysis, PRD Writing, Pricing Strategy\n\nEducation\nM.S. in Information Systems, State University, 2022",
+    "date_received": "2026-05-18",
+    "true_role_family": "Product Manager"
+  },
+  {
+    "candidate_id": "C042",
+    "full_name": "Claire Kowalski",
+    "raw_text": "Claire Kowalski\nProduct Designer candidate\n\nExperience\nUX Designer, Pebblestone Financial (2025 - Present)\n- Overhauled the purchase-flow interface, raising usability test success rates\n- Standardized reusable design components adopted org-wide\n- Led moderated research rounds to validate designs before shipping\n\nSkills\nSketch, User Research, Interaction Design, Wireframing\n\nEducation\nB.S. in Business Administration, Union Polytechnic, 2018",
+    "date_received": "2025-03-25",
+    "true_role_family": "Product Designer"
+  }
+]

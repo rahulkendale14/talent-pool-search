@@ -24,6 +24,10 @@ from explain import explain_results
 st.set_page_config(page_title="Talent Pool Search", layout="wide")
 
 st.title("Talent Pool Search")
+st.info(
+    "This demo uses fictional resumes for testing. Try any job description "
+    "and see how the matching works."
+)
 st.caption(
     "Internal resume search for re-hiring: paste a job description, get the "
     "top candidates from your existing resume pool with quoted evidence for "
